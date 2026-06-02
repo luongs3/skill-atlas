@@ -25,6 +25,20 @@ before loading:
 
 Every entry in this atlas carries that metadata. See [`_meta/SCHEMA.md`](_meta/SCHEMA.md).
 
+## Install (use it as a skill)
+
+The atlas ships as a loadable **Agent Skill**. Drop it where your agent looks for skills
+so it reaches for the atlas automatically at the start of a task:
+
+```bash
+# Claude Code / Hermes-style skills dir (adjust path to your setup)
+git clone https://github.com/luongs3/skill-atlas \
+  ~/.claude/skills/skill-atlas
+```
+
+Once installed, your agent loads `skill-atlas` when a task matches a known job and pulls
+the right trust-rated skills for it. No install needed to just browse — read [`jobs/`](jobs/) directly.
+
 ## How to use it
 
 1. Find your job under [`jobs/`](jobs/) (e.g. [`jobs/upwork.md`](jobs/upwork.md)).
