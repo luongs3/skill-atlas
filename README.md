@@ -65,13 +65,19 @@ the right trust-rated skills for it. No install needed to just browse — read [
 | [MCP servers & agent tools](jobs/mcp-and-agent-tools.md) | 🟢 A | Official mcp-builder + reference servers |
 | [Prompt engineering](jobs/prompt-engineering.md) | 🟢 A | Official interactive tutorial + courses |
 | [Web / frontend development](jobs/web-frontend.md) | 🟢 A | Official frontend-design + webapp-testing |
+| [Go development](jobs/go-development.md) | 🟢 A | Effective Go + Uber style guide + awesome-go |
+| [Git & version control](jobs/git-version-control.md) | 🟢 A | Pro Git + git official docs |
+| [DevOps & infrastructure](jobs/devops-infrastructure.md) | 🟢 A | Terraform + Kubernetes + DevOps exercises |
+| [Application security](jobs/security.md) | 🟢 A | OWASP cheat sheets + PayloadsAllTheThings |
+| [Algorithms & system design](jobs/algorithms-system-design.md) | 🔵 B | system-design-primer (351k★) + JS-algorithms |
+| [Career roadmaps & CS fundamentals](jobs/career-roadmaps.md) | 🔵 B | developer-roadmap (356k★ / roadmap.sh) |
 | [Technical interview prep](jobs/interview-prep.md) | 🔵 B | High-rep community repos; freshness varies (B→D) |
 | [Data analysis](jobs/data-analysis.md) | 🟢 A | Official xlsx + pandas docs + Wes McKinney |
 | [Upwork freelancing](jobs/upwork.md) | 🟡 C | No reputable public skill — the good one is bespoke |
 | [Learning English](jobs/learning-english.md) | 🔴 D→build | Public repos stale/dead — build a private `english-coach` |
 
-_All 8 jobs seeded with live-verified sources. Dead links found during research were
-excluded, not listed (see each job's exclusion notes)._
+_14 jobs, all seeded with live-verified sources (`gh api`, 2026-06-02). Dead links found
+during research were excluded, not listed (see each job's exclusion notes)._
 
 ---
 

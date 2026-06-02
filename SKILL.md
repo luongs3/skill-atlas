@@ -19,10 +19,16 @@ At the **start of a task** that matches a known job, before hunting for tools yo
 |---|---|
 | Winning work on Upwork | `jobs/upwork.md` |
 | Technical interview prep | `jobs/interview-prep.md` |
+| Algorithms / system design | `jobs/algorithms-system-design.md` |
+| Career planning / what to learn | `jobs/career-roadmaps.md` |
 | Word/PDF/PowerPoint/Excel | `jobs/office-documents.md` |
 | Building an MCP server / agent tool | `jobs/mcp-and-agent-tools.md` |
 | Writing better prompts | `jobs/prompt-engineering.md` |
 | Frontend / web app build or test | `jobs/web-frontend.md` |
+| Writing idiomatic Go | `jobs/go-development.md` |
+| Git: rebase, recovery, history | `jobs/git-version-control.md` |
+| Terraform / Kubernetes / infra | `jobs/devops-infrastructure.md` |
+| Securing an app / authorized pentest | `jobs/security.md` |
 | Exploring / cleaning / charting data | `jobs/data-analysis.md` |
 | Improving English for work | `jobs/learning-english.md` |
 
