@@ -51,9 +51,13 @@ Every entry in this atlas carries that metadata. See [`_meta/SCHEMA.md`](_meta/S
 | [MCP servers & agent tools](jobs/mcp-and-agent-tools.md) | 🟢 A | Official mcp-builder + reference servers |
 | [Prompt engineering](jobs/prompt-engineering.md) | 🟢 A | Official interactive tutorial + courses |
 | [Web / frontend development](jobs/web-frontend.md) | 🟢 A | Official frontend-design + webapp-testing |
+| [Technical interview prep](jobs/interview-prep.md) | 🔵 B | High-rep community repos; freshness varies (B→D) |
+| [Data analysis](jobs/data-analysis.md) | 🟢 A | Official xlsx + pandas docs + Wes McKinney |
 | [Upwork freelancing](jobs/upwork.md) | 🟡 C | No reputable public skill — the good one is bespoke |
+| [Learning English](jobs/learning-english.md) | 🔵 B | Thin public layer — build a private `english-coach` |
 
-_Planned: interview prep, learning English, data analysis._
+_All 8 jobs seeded with live-verified sources. Dead links found during research were
+excluded, not listed (see each job's exclusion notes)._
 
 ---
 
