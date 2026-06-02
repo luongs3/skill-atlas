@@ -54,7 +54,7 @@ integration you need may already exist.
 Working code recipes for the Claude API, tool use, and agents. Authoritative code, but
 it's examples not a packaged skill — read and adapt.
 - **source:** https://github.com/anthropics/anthropic-cookbook
-- **reputation:** Official Anthropic repo (live, verified 2026-06-02)
-- **last_validated:** 2026-06-02 (HTML 200; star count rate-limited at pull time)
+- **reputation:** Official Anthropic repo · **44,779★** · pushed 2026-05-30
+- **last_validated:** 2026-06-02
 - **assumes:** Claude API key
 - **adapt:** lift the recipe you need into your own tool.

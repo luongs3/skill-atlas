@@ -53,7 +53,7 @@ The single best "how do the pros actually prompt" reference. Read critically —
 Huge community prompt collection. Useful for breadth, but quality is uneven and it's
 ChatGPT-flavored — patterns transfer, exact wording often doesn't.
 - **source:** https://github.com/f/awesome-chatgpt-prompts
-- **reputation:** Very high stars, broadly known (HTML verified 2026-06-02; count rate-limited at pull)
-- **last_validated:** 2026-06-02 (HTML 200)
+- **reputation:** **163,172★** · pushed 2026-06-02 (very high stars + actively maintained → B-grade reputation; kept in C only because content quality is uneven and ChatGPT-specific)
+- **last_validated:** 2026-06-02
 - **assumes:** nothing
 - **adapt:** harvest a starting prompt, then rewrite for Claude + your task.

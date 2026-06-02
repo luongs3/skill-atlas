@@ -9,16 +9,18 @@ reputable, maintained *public skill repo* for English. Most candidates 404'd on 
 
 ---
 
-## Tier B 🔵 — Community-proven (the one solid repo)
+## Tier D 🔴 — High stars but STALE (caution)
 
 ### A Programmer's Guide to English
-Written specifically for developers — pronunciation, grammar, and the English you actually
-need to read/write code and docs. Aligned to exactly your use case (senior eng, non-native).
+Written specifically for developers — pronunciation, grammar, the English you need to
+read/write code and docs. Well-aligned to your use case in *content*, but **unmaintained**.
 - **source:** https://github.com/yujiangshui/A-Programmers-Guide-to-English
-- **reputation:** Well-known dev-English guide (HTML 200 verified 2026-06-02; star count API rate-limited at pull — re-pull to confirm tier)
-- **last_validated:** 2026-06-02 (live)
+- **reputation:** **16,396★** BUT pushed **2023-01-28** — **3+ years stale.** High stars, dead repo (the exact stars≠maintained trap the schema exists to catch).
+- **last_validated:** 2026-06-02 (live but unmaintained)
 - **assumes:** nothing; aimed at programmers
-- **adapt:** fork the bits relevant to your gaps (e.g. writing PR descriptions, standup phrasing).
+- **adapt:** the content is still readable (language fundamentals don't rot fast), but treat
+  it as a static reference, not a living resource. Better: feed your gaps to the private
+  `english-coach` skill below.
 
 ---
 

@@ -32,7 +32,7 @@ The canonical reference for the dominant Python data library. Authoritative, alw
 ### Python for Data Analysis (Wes McKinney) — notebooks
 The companion notebooks to the standard pandas book, by pandas' creator. Trust by authorship.
 - **source:** https://github.com/wesm/pydata-book
-- **reputation:** Authored by the creator of pandas; long-standing standard reference (HTML 200 verified 2026-06-02; star count API rate-limited at pull)
+- **reputation:** Authored by the creator of pandas; **24,612★** · pushed 2025-10-17 (standard reference; >6mo since push → verify against current pandas)
 - **last_validated:** 2026-06-02
 - **assumes:** Python, Jupyter
 - **adapt:** none — learning material.
@@ -62,8 +62,8 @@ Big collection of DS/ML notebooks (pandas, scikit-learn, TensorFlow).
 ## Tier C 🟡 — Modern engines worth knowing (verify fit)
 
 For larger-than-memory or faster analysis, **Polars** and **DuckDB** are the modern picks
-(both HTML-verified live 2026-06-02; star counts API rate-limited at pull — re-pull to tier).
-- Polars → https://github.com/pola-rs/polars
-- DuckDB → https://github.com/duckdb/duckdb
+(both verified 2026-06-02, actively maintained):
+- Polars → https://github.com/pola-rs/polars · **38,645★** · pushed 2026-06-01
+- DuckDB → https://github.com/duckdb/duckdb · **38,552★** · pushed 2026-06-02
 
 *adapt:* swap into your workflow when pandas hits a memory/perf wall.

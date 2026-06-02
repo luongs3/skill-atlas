@@ -22,11 +22,17 @@ while IFS= read -r url; do
   # GitHub repo? fetch stars + last push.
   if [[ "$url" =~ github\.com/([^/]+)/([^/#]+) ]]; then
     repo="${BASH_REMATCH[1]}/${BASH_REMATCH[2]}"
-    meta=$(curl -s --max-time 12 "https://api.github.com/repos/$repo" \
-      | python3 -c "import sys,json
+    # Prefer `gh api` (authenticated, 5000 req/hr). Fall back to anonymous curl (60/hr).
+    if command -v gh >/dev/null 2>&1 && gh auth status >/dev/null 2>&1; then
+      meta=$(gh api "repos/$repo" \
+        --jq '"\(.stargazers_count)★ pushed \(.pushed_at[:10])"' 2>/dev/null)
+    else
+      meta=$(curl -s --max-time 12 "https://api.github.com/repos/$repo" \
+        | python3 -c "import sys,json
 try:
-    d=json.load(sys.stdin); print(f\"{d.get('stargazers_count','?')}\u2605 pushed {str(d.get('pushed_at',''))[:10]}\")
-except Exception: print('')" 2>/dev/null)
+    d=json.load(sys.stdin); print(f\"{d.get('stargazers_count','?')}\u2605 pushed {str(d.get('pushed_at',''))[:10]} (anon — set up gh for full data)\")
+except Exception: print('(rate-limited — run: gh auth login)')" 2>/dev/null)
+    fi
     printf '%s  %-55s %s\n' "$code" "$url" "$meta"
   else
     printf '%s  %s\n' "$code" "$url"

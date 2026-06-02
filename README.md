@@ -54,7 +54,7 @@ Every entry in this atlas carries that metadata. See [`_meta/SCHEMA.md`](_meta/S
 | [Technical interview prep](jobs/interview-prep.md) | 🔵 B | High-rep community repos; freshness varies (B→D) |
 | [Data analysis](jobs/data-analysis.md) | 🟢 A | Official xlsx + pandas docs + Wes McKinney |
 | [Upwork freelancing](jobs/upwork.md) | 🟡 C | No reputable public skill — the good one is bespoke |
-| [Learning English](jobs/learning-english.md) | 🔵 B | Thin public layer — build a private `english-coach` |
+| [Learning English](jobs/learning-english.md) | 🔴 D→build | Public repos stale/dead — build a private `english-coach` |
 
 _All 8 jobs seeded with live-verified sources. Dead links found during research were
 excluded, not listed (see each job's exclusion notes)._
