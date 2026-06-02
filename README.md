@@ -45,9 +45,15 @@ Every entry in this atlas carries that metadata. See [`_meta/SCHEMA.md`](_meta/S
 
 ## Index of jobs
 
-- [Upwork freelancing](jobs/upwork.md)
-- _interview prep — planned_
-- _learning English — planned_
+| Job | Best tier available | Notes |
+|-----|--------------------|-------|
+| [Office documents (docx/pdf/pptx/xlsx)](jobs/office-documents.md) | 🟢 A | Official Anthropic skill per format — solved problem |
+| [MCP servers & agent tools](jobs/mcp-and-agent-tools.md) | 🟢 A | Official mcp-builder + reference servers |
+| [Prompt engineering](jobs/prompt-engineering.md) | 🟢 A | Official interactive tutorial + courses |
+| [Web / frontend development](jobs/web-frontend.md) | 🟢 A | Official frontend-design + webapp-testing |
+| [Upwork freelancing](jobs/upwork.md) | 🟡 C | No reputable public skill — the good one is bespoke |
+
+_Planned: interview prep, learning English, data analysis._
 
 ---
 
