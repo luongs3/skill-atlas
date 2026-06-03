@@ -1,0 +1,49 @@
+name: revalidate-sources
+
+# Monthly freshness check for the Skill Atlas. Re-runs scripts/revalidate.sh, which
+# verifies every source URL is live and flags GitHub repos that have gone stale
+# (>180 days since last push). If rot is found, the script exits non-zero and this
+# workflow opens (or updates) a tracking issue so the atlas can't silently rot.
+
+on:
+  schedule:
+    - cron: "0 6 1 * *"   # 06:00 UTC on the 1st of each month
+  workflow_dispatch: {}    # allow manual runs from the Actions tab
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  revalidate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Run revalidation
+        id: reval
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}   # gh api → 1000 req/hr in Actions
+        run: |
+          set +e
+          bash scripts/revalidate.sh | tee /tmp/reval.out
+          echo "rc=${PIPESTATUS[0]}" >> "$GITHUB_OUTPUT"
+
+      - name: Open / update issue on rot
+        if: steps.reval.outputs.rc != '0'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          body=$(printf 'Automated monthly source check found dead links and/or stale repos.\n\n```\n%s\n```\n\nRe-tier the flagged entries (toward C/D) and bump their `last_validated` dates.' "$(cat /tmp/reval.out)")
+          # Reuse an existing open rot issue if present, else create one.
+          existing=$(gh issue list --label rot --state open --json number --jq '.[0].number' 2>/dev/null)
+          if [ -n "$existing" ]; then
+            gh issue comment "$existing" --body "$body"
+          else
+            gh label create rot --color b60205 --description "Stale/dead source flagged by revalidate.sh" 2>/dev/null || true
+            gh issue create --title "Source rot detected — $(date -u +%Y-%m-%d)" --label rot --body "$body"
+          fi
+
+      - name: Report clean
+        if: steps.reval.outputs.rc == '0'
+        run: echo "✅ All sources live and fresh — no issue opened."

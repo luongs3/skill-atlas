@@ -53,8 +53,9 @@ Each entry carries a **trust tier** plus source URL, reputation signal, and a
 
 `scripts/revalidate.sh` re-checks every source's liveness + GitHub stars/last-push (uses
 `gh` for 5000 req/hr if available). An entry whose `last_validated` is >6 months old is
-treated as C until reproven. See `_meta/SCHEMA.md` for the full schema and
-`CONTRIBUTING.md` for the trust bar on new entries.
+treated as C until reproven. A **monthly GitHub Action** runs this automatically and opens a
+tracking issue if any source dies or goes stale — so the atlas can't silently rot. See
+`_meta/SCHEMA.md` for the full schema and `CONTRIBUTING.md` for the trust bar on new entries.
 
 ---
 
