@@ -27,7 +27,9 @@ jobs:
         run: |
           set +e
           bash scripts/revalidate.sh | tee /tmp/reval.out
-          echo "rc=${PIPESTATUS[0]}" >> "$GITHUB_OUTPUT"
+          rc=${PIPESTATUS[0]}
+          echo "rc=$rc" >> "$GITHUB_OUTPUT"
+          echo "revalidate.sh exit code: $rc"
 
       - name: Open / update issue on rot
         if: steps.reval.outputs.rc != '0'

@@ -16,8 +16,8 @@ cd "$(dirname "$0")/.." || exit 1
 STALE_DAYS="${STALE_DAYS:-180}"
 now=$(date -u +%s)
 
-# Hosts that bot-block curl (expected non-200) — not treated as dead.
-allow_block_re='support\.upwork\.com'
+# Hosts that bot-block datacenter/CI IPs (expected non-200) — not treated as dead.
+allow_block_re='support\.upwork\.com|reddit\.com'
 
 dead=()      # url  (non-200, not in allowlist)
 stale=()     # "url  pushed YYYY-MM-DD"
@@ -74,22 +74,29 @@ done <<< "$urls"
 echo "================================================================"
 
 rc=0
+# Dead links are hard rot → non-zero exit (triggers CI issue).
 if [ "${#dead[@]}" -gt 0 ]; then
   echo ""
   echo "❌ DEAD LINKS (${#dead[@]}):"
   printf '   %s\n' "${dead[@]}"
   rc=1
 fi
+# Staleness is advisory: reported for re-tiering, but does NOT fail the run on its own
+# (most stale entries are already tiered C/D — failing monthly would be pure noise).
 if [ "${#stale[@]}" -gt 0 ]; then
   echo ""
-  echo "⚠️  STALE REPOS — not pushed in >${STALE_DAYS}d (${#stale[@]}) — re-tier toward C/D:"
+  echo "⚠️  STALE REPOS — not pushed in >${STALE_DAYS}d (${#stale[@]}) — confirm they're tiered C/D:"
   printf '   %s\n' "${stale[@]}"
-  rc=1
 fi
 if [ "$rc" -eq 0 ]; then
-  echo "✅ All sources live and fresh (≤${STALE_DAYS}d). Bump last_validated for any you re-checked."
+  if [ "${#stale[@]}" -gt 0 ]; then
+    echo ""
+    echo "✅ No dead links. ${#stale[@]} stale repo(s) above are advisory — confirm C/D tiering."
+  else
+    echo "✅ All sources live and fresh (≤${STALE_DAYS}d)."
+  fi
 else
   echo ""
-  echo "Action: re-tier the flagged entries and update last_validated dates."
+  echo "Action: fix/replace the dead links above, then re-tier any stale entries."
 fi
 exit "$rc"
