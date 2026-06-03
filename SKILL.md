@@ -34,7 +34,13 @@ At the **start of a task** that matches a known job, before hunting for tools yo
 | Designing a REST or gRPC API | `jobs/api-design.md` |
 | Metrics / traces / logs / dashboards | `jobs/observability-monitoring.md` |
 | Caching, queues, scaling, Kafka/Redis | `jobs/scalability-distributed-systems.md` |
+| Async messaging, task queue, workflows | `jobs/message-queues-streaming.md` |
 | Applying a design pattern / refactor | `jobs/software-design-patterns.md` |
+| AWS or GCP — CLI, SDK, services | `jobs/cloud-aws-gcp.md` |
+| CI/CD — GitHub Actions, GitOps deploy | `jobs/cicd-pipelines.md` |
+| Login, OAuth/OIDC, JWT, access control | `jobs/authentication-authorization.md` |
+| Building a UI (React/Vue/Svelte/Next) | `jobs/frontend-frameworks.md` |
+| Writing Go tests, mocks, integration | `jobs/go-testing.md` |
 | Securing an app / authorized pentest | `jobs/security.md` |
 | Exploring / cleaning / charting data | `jobs/data-analysis.md` |
 | Improving English for work | `jobs/learning-english.md` |

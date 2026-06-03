@@ -75,6 +75,12 @@ the right trust-rated skills for it. No install needed to just browse — read [
 | [Go backend libraries](jobs/go-backend-libraries.md) | 🔵 B | Gin + Cobra + Zap + Testify |
 | [Scalability & distributed systems](jobs/scalability-distributed-systems.md) | 🔵 B | awesome-scalability + Kafka + Redis |
 | [Software design patterns](jobs/software-design-patterns.md) | 🟡 C | Good refs but aging — learn via agent review |
+| [Cloud (AWS & GCP)](jobs/cloud-aws-gcp.md) | 🟢 A | aws-cli + SDK examples + GCP samples |
+| [CI/CD pipelines](jobs/cicd-pipelines.md) | 🟢 A | GH Actions starters + Argo CD + Flux |
+| [Authentication & authorization](jobs/authentication-authorization.md) | 🟢 A | Keycloak + Ory + golang-jwt + Casbin |
+| [Frontend frameworks](jobs/frontend-frameworks.md) | 🟢 A | React/Next/Vue/Svelte + Tailwind (all official) |
+| [Message queues & streaming](jobs/message-queues-streaming.md) | 🟢 A | RabbitMQ + Temporal + NATS + Asynq |
+| [Go testing](jobs/go-testing.md) | 🔵 B | Testify + Mockery + testcontainers-go |
 | [Application security](jobs/security.md) | 🟢 A | OWASP cheat sheets + PayloadsAllTheThings |
 | [Algorithms & system design](jobs/algorithms-system-design.md) | 🔵 B | system-design-primer (351k★) + JS-algorithms |
 | [Career roadmaps & CS fundamentals](jobs/career-roadmaps.md) | 🔵 B | developer-roadmap (356k★ / roadmap.sh) |
@@ -83,7 +89,7 @@ the right trust-rated skills for it. No install needed to just browse — read [
 | [Upwork freelancing](jobs/upwork.md) | 🟡 C | No reputable public skill — the good one is bespoke |
 | [Learning English](jobs/learning-english.md) | 🔴 D→build | Public repos stale/dead — build a private `english-coach` |
 
-_21 jobs, all seeded with live-verified sources (`gh api`, 2026-06-03). Dead links found
+_27 jobs, all seeded with live-verified sources (`gh api`, 2026-06-03). Dead links found
 during research were excluded, not listed (see each job's exclusion notes)._
 
 ---
