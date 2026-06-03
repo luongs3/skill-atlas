@@ -68,6 +68,13 @@ the right trust-rated skills for it. No install needed to just browse — read [
 | [Go development](jobs/go-development.md) | 🟢 A | Effective Go + Uber style guide + awesome-go |
 | [Git & version control](jobs/git-version-control.md) | 🟢 A | Pro Git + git official docs |
 | [DevOps & infrastructure](jobs/devops-infrastructure.md) | 🟢 A | Terraform + Kubernetes + DevOps exercises |
+| [Docker & containers](jobs/docker-containers.md) | 🟢 A | Moby engine + awesome-compose |
+| [Databases & SQL (Postgres)](jobs/databases-sql.md) | 🟢 A | Postgres + sqlc + migrate/goose |
+| [API design (REST & gRPC)](jobs/api-design.md) | 🟢 A | MS API guidelines + grpc-go + public-apis |
+| [Observability & monitoring](jobs/observability-monitoring.md) | 🟢 A | Prometheus + Grafana + OpenTelemetry |
+| [Go backend libraries](jobs/go-backend-libraries.md) | 🔵 B | Gin + Cobra + Zap + Testify |
+| [Scalability & distributed systems](jobs/scalability-distributed-systems.md) | 🔵 B | awesome-scalability + Kafka + Redis |
+| [Software design patterns](jobs/software-design-patterns.md) | 🟡 C | Good refs but aging — learn via agent review |
 | [Application security](jobs/security.md) | 🟢 A | OWASP cheat sheets + PayloadsAllTheThings |
 | [Algorithms & system design](jobs/algorithms-system-design.md) | 🔵 B | system-design-primer (351k★) + JS-algorithms |
 | [Career roadmaps & CS fundamentals](jobs/career-roadmaps.md) | 🔵 B | developer-roadmap (356k★ / roadmap.sh) |
@@ -76,7 +83,7 @@ the right trust-rated skills for it. No install needed to just browse — read [
 | [Upwork freelancing](jobs/upwork.md) | 🟡 C | No reputable public skill — the good one is bespoke |
 | [Learning English](jobs/learning-english.md) | 🔴 D→build | Public repos stale/dead — build a private `english-coach` |
 
-_14 jobs, all seeded with live-verified sources (`gh api`, 2026-06-02). Dead links found
+_21 jobs, all seeded with live-verified sources (`gh api`, 2026-06-03). Dead links found
 during research were excluded, not listed (see each job's exclusion notes)._
 
 ---

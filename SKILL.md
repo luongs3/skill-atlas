@@ -26,8 +26,15 @@ At the **start of a task** that matches a known job, before hunting for tools yo
 | Writing better prompts | `jobs/prompt-engineering.md` |
 | Frontend / web app build or test | `jobs/web-frontend.md` |
 | Writing idiomatic Go | `jobs/go-development.md` |
+| Choosing Go backend libraries (HTTP, CLI, log, test) | `jobs/go-backend-libraries.md` |
 | Git: rebase, recovery, history | `jobs/git-version-control.md` |
 | Terraform / Kubernetes / infra | `jobs/devops-infrastructure.md` |
+| Dockerfile / compose / containers | `jobs/docker-containers.md` |
+| Schema design, SQL, migrations (Postgres) | `jobs/databases-sql.md` |
+| Designing a REST or gRPC API | `jobs/api-design.md` |
+| Metrics / traces / logs / dashboards | `jobs/observability-monitoring.md` |
+| Caching, queues, scaling, Kafka/Redis | `jobs/scalability-distributed-systems.md` |
+| Applying a design pattern / refactor | `jobs/software-design-patterns.md` |
 | Securing an app / authorized pentest | `jobs/security.md` |
 | Exploring / cleaning / charting data | `jobs/data-analysis.md` |
 | Improving English for work | `jobs/learning-english.md` |
