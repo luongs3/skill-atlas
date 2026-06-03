@@ -86,10 +86,17 @@ the right trust-rated skills for it. No install needed to just browse — read [
 | [Career roadmaps & CS fundamentals](jobs/career-roadmaps.md) | 🔵 B | developer-roadmap (356k★ / roadmap.sh) |
 | [Technical interview prep](jobs/interview-prep.md) | 🔵 B | High-rep community repos; freshness varies (B→D) |
 | [Data analysis](jobs/data-analysis.md) | 🟢 A | Official xlsx + pandas docs + Wes McKinney |
+| [Data engineering](jobs/data-engineering.md) | 🟢 A | Airflow + Spark + dbt + ClickHouse + Flink |
+| [Mobile development](jobs/mobile-development.md) | 🟢 A | Flutter + React Native + Swift + Now-in-Android |
+| [LLM app development](jobs/llm-app-development.md) | 🟢 A | Anthropic Cookbook + LangChain + LlamaIndex |
+| [LLM serving & inference](jobs/llm-serving-inference.md) | 🟢 A | Ollama + llama.cpp + vLLM |
+| [Linux & shell](jobs/linux-shell.md) | 🟢 A | tldr + ShellCheck (+ aging guides at C) |
+| [Nginx & web servers](jobs/nginx-web-servers.md) | 🟢 A | nginx official + admins-handbook (C) |
+| [Learning resources](jobs/learning-resources.md) | 🔵 B | free-programming-books + awesome-lang lists |
 | [Upwork freelancing](jobs/upwork.md) | 🟡 C | No reputable public skill — the good one is bespoke |
 | [Learning English](jobs/learning-english.md) | 🔴 D→build | Public repos stale/dead — build a private `english-coach` |
 
-_27 jobs, all seeded with live-verified sources (`gh api`, 2026-06-03). Dead links found
+_34 jobs, all seeded with live-verified sources (`gh api`, 2026-06-03). Dead links found
 during research were excluded, not listed (see each job's exclusion notes)._
 
 ---

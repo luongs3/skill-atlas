@@ -43,6 +43,13 @@ At the **start of a task** that matches a known job, before hunting for tools yo
 | Writing Go tests, mocks, integration | `jobs/go-testing.md` |
 | Securing an app / authorized pentest | `jobs/security.md` |
 | Exploring / cleaning / charting data | `jobs/data-analysis.md` |
+| Data pipelines, ETL, Airflow/Spark/dbt | `jobs/data-engineering.md` |
+| Building a mobile app (Flutter/RN/iOS) | `jobs/mobile-development.md` |
+| Building an app on LLMs (RAG, agents) | `jobs/llm-app-development.md` |
+| Serving/running LLMs (Ollama/vLLM) | `jobs/llm-serving-inference.md` |
+| Bash scripting, CLI, shell debugging | `jobs/linux-shell.md` |
+| Configuring nginx / reverse proxy / TLS | `jobs/nginx-web-servers.md` |
+| Finding a course/book to learn something | `jobs/learning-resources.md` |
 | Improving English for work | `jobs/learning-english.md` |
 
 ## How to use an entry
