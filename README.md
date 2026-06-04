@@ -1,5 +1,7 @@
 # Skill Atlas
 
+![Skill Atlas — a trust-rated index of public AI-agent skills, organized by job. Trust tiers A (canonical) to D (caution).](assets/hero.png)
+
 **A curated, trust-rated index of public AI-agent skills, organized by job.**
 
 This is not a skill store and not another dump of links. It answers one question an

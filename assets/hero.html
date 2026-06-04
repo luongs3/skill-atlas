@@ -1,0 +1,44 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { width:1200px; height:630px; font-family:-apple-system,'Segoe UI',Roboto,sans-serif;
+         background:#0d1117; color:#e6edf3; overflow:hidden; position:relative; }
+  .wrap { padding:52px 60px; height:100%; display:flex; flex-direction:column; }
+  .kicker { color:#7d8590; font-size:21px; font-weight:500; letter-spacing:.3px; }
+  h1 { font-size:62px; font-weight:800; line-height:1.05; margin:10px 0 6px;
+       background:linear-gradient(92deg,#58a6ff,#a371f7); -webkit-background-clip:text;
+       -webkit-text-fill-color:transparent; }
+  .sub { font-size:25px; color:#adbac7; font-weight:400; margin-bottom:26px; max-width:1000px; }
+  .sub b { color:#e6edf3; font-weight:600; }
+  .tiers { display:flex; gap:14px; margin-bottom:24px; }
+  .tier { flex:1; border-radius:12px; padding:16px 18px; border:1px solid #30363d; background:#161b22; }
+  .tier .dot { font-size:15px; font-weight:700; letter-spacing:.5px; }
+  .tier .lbl { font-size:18px; font-weight:600; margin-top:4px; color:#e6edf3; }
+  .tier .desc { font-size:15px; color:#8b949e; margin-top:2px; }
+  .A .dot{color:#3fb950} .B .dot{color:#58a6ff} .C .dot{color:#d29922} .D .dot{color:#f85149}
+  .example { background:#161b22; border:1px solid #30363d; border-left:4px solid #f85149;
+             border-radius:10px; padding:18px 22px; font-size:21px; color:#adbac7; }
+  .example b { color:#e6edf3; }
+  .example .strike { color:#f85149; }
+  .foot { margin-top:auto; display:flex; justify-content:space-between; align-items:center;
+          font-size:20px; color:#7d8590; padding-top:22px; }
+  .foot .repo { color:#58a6ff; font-weight:600; }
+  .pill { background:#21262d; border:1px solid #30363d; border-radius:20px; padding:6px 16px;
+          font-size:16px; color:#adbac7; }
+</style></head>
+<body><div class="wrap">
+  <div class="kicker">SKILL ATLAS</div>
+  <h1>Which agent skill won't lie to you?</h1>
+  <div class="sub">A trust-rated index of public AI-agent skills, organized by job. Every entry carries <b>source reputation + freshness</b>, not just a link.</div>
+  <div class="tiers">
+    <div class="tier A"><div class="dot">● A</div><div class="lbl">Canonical</div><div class="desc">Official vendor source</div></div>
+    <div class="tier B"><div class="dot">● B</div><div class="lbl">Community-proven</div><div class="desc">High rep + maintained</div></div>
+    <div class="tier C"><div class="dot">● C</div><div class="lbl">Verify first</div><div class="desc">Low/unknown rep</div></div>
+    <div class="tier D"><div class="dot">● D</div><div class="lbl">Caution</div><div class="desc">Stale / unmaintained</div></div>
+  </div>
+  <div class="example">16,000&#9733; repo, <b>last pushed Jan 2023</b> &rarr; <span class="strike">tier D, not B.</span> Stars lie. Stars + last-push don't.</div>
+  <div class="foot">
+    <span class="repo">github.com/luongs3/skill-atlas</span>
+    <span class="pill">34 jobs · MIT · installs as a skill</span>
+  </div>
+</div></body></html>
