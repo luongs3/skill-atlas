@@ -1,0 +1,55 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { width:1200px; height:560px; font-family:-apple-system,'Segoe UI',Roboto,sans-serif;
+         background:#0d1117; color:#e6edf3; padding:48px 56px; }
+  .title { font-size:30px; font-weight:700; margin-bottom:4px; }
+  .title .accent { background:linear-gradient(92deg,#58a6ff,#a371f7);-webkit-background-clip:text;-webkit-text-fill-color:transparent; }
+  .subtitle { font-size:18px; color:#8b949e; margin-bottom:38px; }
+  .flow { display:flex; align-items:stretch; gap:0; }
+  .step { flex:1; background:#161b22; border:1px solid #30363d; border-radius:12px; padding:20px 18px; display:flex; flex-direction:column; }
+  .step .n { font-size:13px; font-weight:700; color:#58a6ff; letter-spacing:1px; }
+  .step .h { font-size:20px; font-weight:700; margin:8px 0 8px; }
+  .step .d { font-size:15px; color:#adbac7; line-height:1.45; }
+  .arrow { display:flex; align-items:center; justify-content:center; width:44px; color:#7d8590; font-size:28px; flex:0 0 44px; }
+  .tiers { display:flex; gap:6px; margin-top:12px; flex-wrap:wrap; }
+  .t { font-size:13px; font-weight:700; padding:3px 9px; border-radius:6px; border:1px solid #30363d; }
+  .tA{color:#3fb950} .tB{color:#58a6ff} .tC{color:#d29922} .tD{color:#f85149}
+  .codeline { font-family:ui-monospace,'SF Mono',Menlo,monospace; font-size:14px; color:#a5d6ff;
+              background:#0d1117; border:1px solid #30363d; border-radius:6px; padding:6px 10px; margin-top:10px; }
+  .foot { margin-top:34px; font-size:17px; color:#8b949e; }
+  .foot b { color:#e6edf3; }
+  .pvt { color:#a371f7; font-weight:600; }
+</style></head>
+<body>
+  <div class="title">How <span class="accent">Skill Atlas</span> works</div>
+  <div class="subtitle">Find the trustworthy public skill for a task, then make it yours.</div>
+  <div class="flow">
+    <div class="step">
+      <div class="n">1 · TASK</div>
+      <div class="h">You're about to do X</div>
+      <div class="d">Work on Upwork, build an MCP server, write Go, set up CI...</div>
+    </div>
+    <div class="arrow">&rarr;</div>
+    <div class="step">
+      <div class="n">2 · ROUTE</div>
+      <div class="h">Atlas finds the job</div>
+      <div class="d">34 jobs indexed. The agent loads the matching one automatically.</div>
+    </div>
+    <div class="arrow">&rarr;</div>
+    <div class="step">
+      <div class="n">3 · TRUST</div>
+      <div class="h">Vetted, tiered skills</div>
+      <div class="d">Each entry rated by source + freshness:</div>
+      <div class="tiers"><span class="t tA">A</span><span class="t tB">B</span><span class="t tC">C</span><span class="t tD">D</span></div>
+    </div>
+    <div class="arrow">&rarr;</div>
+    <div class="step">
+      <div class="n">4 · ADAPT</div>
+      <div class="h">Fork it <span class="pvt">private</span></div>
+      <div class="d">Public skill is the floor. Your version adds your voice + rules.</div>
+      <div class="codeline">git clone &rarr; ~/.claude/skills/</div>
+    </div>
+  </div>
+  <div class="foot">The public layer is the <b>floor</b>, not the ceiling. When no good public skill exists, the atlas <b>says so</b> instead of padding the list.</div>
+</body></html>

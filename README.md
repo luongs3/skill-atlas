@@ -43,6 +43,8 @@ the right trust-rated skills for it. No install needed to just browse — read [
 
 ## How to use it
 
+![How Skill Atlas works: task → route to job → vetted tiered skills (A/B/C/D) → fork it private.](assets/how-it-works.png)
+
 1. Find your job under [`jobs/`](jobs/) (e.g. [`jobs/upwork.md`](jobs/upwork.md)).
 2. Read the ranked skill list. Each entry has a **trust tier**, source URL, and last-validated date.
 3. Load the public skill into your agent.
