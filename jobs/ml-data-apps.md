@@ -6,7 +6,7 @@
 
 ---
 
-## Tier A 🟢 — Canonical
+## Tier B 🔵 — Community-proven
 
 ### Streamlit
 Turn a Python script into a shareable data/ML web app in minutes.

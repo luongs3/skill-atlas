@@ -6,7 +6,7 @@
 
 ---
 
-## Tier A 🟢 — Canonical
+## Tier B 🔵 — Community-proven
 
 ### Vitest
 The fast, modern test runner for Vite/TS projects. Jest-compatible API.

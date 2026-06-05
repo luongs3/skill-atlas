@@ -6,7 +6,7 @@
 
 ---
 
-## Tier A 🟢 — Canonical
+## Tier B 🔵 — Community-proven
 
 ### tldraw
 SDK for building infinite-canvas / whiteboard apps with React.
@@ -15,10 +15,6 @@ SDK for building infinite-canvas / whiteboard apps with React.
 - **last_validated:** 2026-06-05
 - **assumes:** React
 - **adapt:** fork your custom shapes + tools.
-
----
-
-## Tier B 🔵 — Community-proven
 
 ### Excalidraw
 Hand-drawn-style whiteboard; embeddable + a great reference implementation.

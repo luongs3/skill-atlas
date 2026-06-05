@@ -6,7 +6,7 @@
 
 ---
 
-## Tier A 🟢 — Canonical
+## Tier B 🔵 — Community-proven
 
 ### Strapi
 The leading open-source headless CMS — customizable content types + REST/GraphQL API.
@@ -15,10 +15,6 @@ The leading open-source headless CMS — customizable content types + REST/Graph
 - **last_validated:** 2026-06-05
 - **assumes:** Node + a database
 - **adapt:** fork your content-type + role conventions.
-
----
-
-## Tier B 🔵 — Community-proven
 
 ### Directus
 Headless CMS + data platform that wraps any SQL database.

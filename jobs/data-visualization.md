@@ -6,7 +6,7 @@
 
 ---
 
-## Tier A 🟢 — Canonical
+## Tier B 🔵 — Community-proven
 
 ### Plotly
 Interactive charts for Python (and JS); good for dashboards + notebooks.
@@ -15,10 +15,6 @@ Interactive charts for Python (and JS); good for dashboards + notebooks.
 - **last_validated:** 2026-06-05
 - **assumes:** Python
 - **adapt:** fork your chart-theme defaults.
-
----
-
-## Tier B 🔵 — Community-proven
 
 ### D3.js
 The foundational JS library for custom, bespoke data visualizations.

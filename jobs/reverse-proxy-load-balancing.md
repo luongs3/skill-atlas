@@ -6,7 +6,7 @@
 
 ---
 
-## Tier A 🟢 — Canonical
+## Tier B 🔵 — Community-proven
 
 ### Caddy
 Web server + reverse proxy with automatic HTTPS out of the box.
@@ -23,10 +23,6 @@ Cloud-native reverse proxy with auto service-discovery (great with Docker/K8s).
 - **last_validated:** 2026-06-05
 - **assumes:** Docker/K8s
 - **adapt:** fork your router/middleware labels.
-
----
-
-## Tier B 🔵 — Community-proven
 
 ### Envoy / HAProxy
 Envoy (L7 proxy, mesh data plane) and HAProxy (battle-tested L4/L7 LB).

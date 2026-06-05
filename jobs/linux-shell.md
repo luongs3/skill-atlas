@@ -7,7 +7,7 @@ debugging. Strong canonical tools + useful (but aging) learning references.
 
 ---
 
-## Tier A 🟢 — Canonical (tools)
+## Tier B 🔵 — Community-proven
 
 ### tldr-pages — practical command examples
 Community-maintained simplified man pages: real usage examples instead of exhaustive flags.

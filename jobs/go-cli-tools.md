@@ -6,7 +6,7 @@
 
 ---
 
-## Tier A 🟢 — Canonical
+## Tier B 🔵 — Community-proven
 
 ### Cobra + Viper
 Cobra (commands/flags, used by kubectl/gh) + Viper (config). The standard Go CLI stack.
@@ -15,10 +15,6 @@ Cobra (commands/flags, used by kubectl/gh) + Viper (config). The standard Go CLI
 - **last_validated:** 2026-06-05
 - **assumes:** Go
 - **adapt:** fork your command structure.
-
----
-
-## Tier B 🔵 — Community-proven
 
 ### Bubble Tea
 Framework for rich terminal UIs (TUIs) in Go.

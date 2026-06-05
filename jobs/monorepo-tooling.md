@@ -6,7 +6,7 @@
 
 ---
 
-## Tier A 🟢 — Canonical
+## Tier B 🔵 — Community-proven
 
 ### Turborepo
 High-performance build system for JS/TS monorepos — caching, task pipelines.

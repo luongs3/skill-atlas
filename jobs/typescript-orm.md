@@ -6,7 +6,7 @@
 
 ---
 
-## Tier A 🟢 — Canonical
+## Tier B 🔵 — Community-proven
 
 ### Prisma
 Type-safe ORM with schema-first modeling and migrations; the popular default.
@@ -15,10 +15,6 @@ Type-safe ORM with schema-first modeling and migrations; the popular default.
 - **last_validated:** 2026-06-05
 - **assumes:** Node + a database
 - **adapt:** fork your schema + migration conventions.
-
----
-
-## Tier B 🔵 — Community-proven
 
 ### Drizzle / TypeORM
 Drizzle (SQL-first, lightweight, edge-friendly) and TypeORM (decorator-based, mature).

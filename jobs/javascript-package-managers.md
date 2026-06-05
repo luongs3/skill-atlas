@@ -6,7 +6,7 @@
 
 ---
 
-## Tier A 🟢 — Canonical
+## Tier B 🔵 — Community-proven
 
 ### pnpm
 Fast, disk-efficient package manager; the modern default, great for monorepos.

@@ -7,7 +7,7 @@ error shapes, pagination. Strong canonical guideline + high-rep references.
 
 ---
 
-## Tier A 🟢 — Canonical
+## Tier B 🔵 — Community-proven
 
 ### Microsoft REST API Guidelines
 The most-referenced production REST guideline — naming, versioning, errors, pagination,
@@ -28,7 +28,7 @@ For RPC/service-to-service APIs in Go — the canonical implementation and desig
 
 ---
 
-## Tier B 🔵 — Community-proven (reference / inspiration)
+ (reference / inspiration)
 
 ### public-apis
 Massive index of public APIs — useful for finding integration targets or studying how

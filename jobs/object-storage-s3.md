@@ -6,7 +6,7 @@
 
 ---
 
-## Tier A 🟢 — Canonical
+## Tier B 🔵 — Community-proven
 
 ### MinIO
 High-performance S3-compatible object storage you can self-host. NOTE: pushed 2026-04, slightly older than most.

@@ -6,7 +6,7 @@
 
 ---
 
-## Tier A 🟢 — Canonical
+## Tier B 🔵 — Community-proven
 
 ### Supabase
 Open-source Firebase alternative — Postgres, auth, storage, realtime, edge functions.
@@ -15,10 +15,6 @@ Open-source Firebase alternative — Postgres, auth, storage, realtime, edge fun
 - **last_validated:** 2026-06-05
 - **assumes:** a project (self-host or cloud)
 - **adapt:** fork your RLS-policy + schema conventions.
-
----
-
-## Tier B 🔵 — Community-proven
 
 ### Appwrite / PocketBase
 Appwrite (full BaaS) and PocketBase (single-file Go backend, great for small apps).
