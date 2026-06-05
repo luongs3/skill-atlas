@@ -26,4 +26,16 @@ Service discovery + service mesh + health checking.
 
 ---
 
+## How to use this job
+
+Choose on where your traffic lives. **Cilium** is the default when you're Kubernetes-native and want eBPF-based networking, network policy, and observability in the data path without sidecars (its Hubble/Tetragon stack and sidecar-free mesh cut per-pod overhead). **Consul** wins when you span VMs and multiple clusters, or need service discovery + KV + mesh as one product — its decision hinges on heterogeneous, non-K8s-only topologies.
+
+## Pitfalls
+
+- **Sidecar tax vs eBPF tradeoffs:** sidecar meshes add latency and a memory/CPU footprint per pod; eBPF/sidecarless approaches shift that into the kernel but require recent kernel versions and tighter compatibility with your CNI.
+- **mTLS rotation and clock skew:** certificate rotation, short-lived SPIFFE identities, and skewed node clocks silently break mTLS handshakes — failures look like intermittent connection resets, not config errors.
+- **Policy default-deny lockout:** flipping network policy to default-deny without first mapping every required east-west flow (DNS, health checks, control plane) will partition your own services; stage it in audit/observe mode first.
+
+---
+
 *See [devops-infrastructure](devops-infrastructure.md) and [observability-monitoring](observability-monitoring.md). Private skill = your mesh topology + policy set.*

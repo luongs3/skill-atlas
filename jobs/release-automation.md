@@ -26,4 +26,16 @@ Versioning + changelogs for monorepos (per-package releases).
 
 ---
 
+## How to use this job
+
+Use **semantic-release** for a single package where you want a fully hands-off pipeline: it computes the next version from conventional commits and publishes on merge with no manual step. Use **Changesets** for monorepos where packages version independently and you want a human-reviewed intent file (the changeset) captured per PR. The decision hinges on monorepo vs single package and on whether you want releases fully automatic (semantic-release) or gated by an explicit, reviewable changelog entry (Changesets).
+
+## Pitfalls
+
+- **semantic-release derives everything from commit messages** — one badly typed commit (`fix` vs `feat` vs `BREAKING CHANGE:` footer) silently produces the wrong semver bump. Enforce commit format with commitlint in CI or you'll ship a patch that should have been a major.
+- **semantic-release needs a clean CI token and shallow-clone fix** — it walks git tags to find the last release, so a shallow `git clone --depth 1` makes it think every release is the first. Set `fetch-depth: 0` in your checkout step.
+- **Changesets won't release packages with no changeset file** — forgetting to add one means the PR merges but that package never bumps or publishes. Add the changeset bot or a CI check that fails PRs touching `src` without a changeset.
+
+---
+
 *See [cicd-pipelines](cicd-pipelines.md). Private skill = your release flow + versioning policy.*

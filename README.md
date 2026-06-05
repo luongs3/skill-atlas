@@ -63,13 +63,13 @@ the right trust-rated skills for it. No install needed to just browse — read [
 
 ## Index of jobs
 
-_100 jobs, every GitHub source live-verified via `gh api` (2026-06-05) — 0 dead links. Tier shown is the best available; open a job for the full tiered list._
+_100 jobs, every GitHub source live-verified via `gh api` (2026-06-05) — 0 dead links. Tier shown is the lead tier; open a job for the full tiered list._
 
 | Job | Best tier | File |
 |-----|-----------|------|
 | 3D Web Graphics | 🟢 A | [`3d-web-graphics.md`](jobs/3d-web-graphics.md) |
 | AI Agent Orchestration | 🟢 A | [`ai-agent-orchestration.md`](jobs/ai-agent-orchestration.md) |
-| Algorithms & System Design | 🟢 A | [`algorithms-system-design.md`](jobs/algorithms-system-design.md) |
+| Algorithms & System Design | 🔵 B | [`algorithms-system-design.md`](jobs/algorithms-system-design.md) |
 | Analytics Engineering (dbt) | 🟢 A | [`dbt-analytics-engineering.md`](jobs/dbt-analytics-engineering.md) |
 | Angular Development | 🟢 A | [`angular-development.md`](jobs/angular-development.md) |
 | API Design (REST & gRPC) | 🟢 A | [`api-design.md`](jobs/api-design.md) |
@@ -82,7 +82,7 @@ _100 jobs, every GitHub source live-verified via `gh api` (2026-06-05) — 0 dea
 | Building Go CLIs | 🟢 A | [`go-cli-tools.md`](jobs/go-cli-tools.md) |
 | Building MCP Servers & Agent Tools | 🟢 A | [`mcp-and-agent-tools.md`](jobs/mcp-and-agent-tools.md) |
 | C# / .NET Development | 🟢 A | [`csharp-dotnet-development.md`](jobs/csharp-dotnet-development.md) |
-| Career Roadmaps & CS Fundamentals | 🟢 A | [`career-roadmaps.md`](jobs/career-roadmaps.md) |
+| Career Roadmaps & CS Fundamentals | 🔵 B | [`career-roadmaps.md`](jobs/career-roadmaps.md) |
 | CI/CD Pipelines | 🟢 A | [`cicd-pipelines.md`](jobs/cicd-pipelines.md) |
 | Cloud (AWS & GCP) | 🟢 A | [`cloud-aws-gcp.md`](jobs/cloud-aws-gcp.md) |
 | Code Quality & Linting | 🟢 A | [`code-quality-linting.md`](jobs/code-quality-linting.md) |
@@ -117,7 +117,7 @@ _100 jobs, every GitHub source live-verified via `gh api` (2026-06-05) — 0 dea
 | JS Package Managers | 🟢 A | [`javascript-package-managers.md`](jobs/javascript-package-managers.md) |
 | Kotlin Development | 🟢 A | [`kotlin-development.md`](jobs/kotlin-development.md) |
 | Laravel / PHP Development | 🟢 A | [`laravel-php-development.md`](jobs/laravel-php-development.md) |
-| Learning English | 🟢 A | [`learning-english.md`](jobs/learning-english.md) |
+| Learning English | 🔴 D | [`learning-english.md`](jobs/learning-english.md) |
 | Learning Resources (general programming) | 🔵 B | [`learning-resources.md`](jobs/learning-resources.md) |
 | Linux & Shell | 🟢 A | [`linux-shell.md`](jobs/linux-shell.md) |
 | LLM App Development | 🟢 A | [`llm-app-development.md`](jobs/llm-app-development.md) |
@@ -145,14 +145,14 @@ _100 jobs, every GitHub source live-verified via `gh api` (2026-06-05) — 0 dea
 | React Development | 🟢 A | [`react-development.md`](jobs/react-development.md) |
 | React Native (Mobile) | 🟢 A | [`react-native-mobile.md`](jobs/react-native-mobile.md) |
 | Redis — Caching & In-Memory Data | 🟢 A | [`redis-caching.md`](jobs/redis-caching.md) |
-| Regular Expressions | 🟢 A | [`regular-expressions.md`](jobs/regular-expressions.md) |
+| Regular Expressions | 🔵 B | [`regular-expressions.md`](jobs/regular-expressions.md) |
 | Release Automation & Versioning | 🟢 A | [`release-automation.md`](jobs/release-automation.md) |
 | Reverse Proxy & Load Balancing | 🟢 A | [`reverse-proxy-load-balancing.md`](jobs/reverse-proxy-load-balancing.md) |
 | Rust Development | 🟢 A | [`rust-development.md`](jobs/rust-development.md) |
-| Scalability & Distributed Systems | 🟢 A | [`scalability-distributed-systems.md`](jobs/scalability-distributed-systems.md) |
+| Scalability & Distributed Systems | 🔵 B | [`scalability-distributed-systems.md`](jobs/scalability-distributed-systems.md) |
 | Secrets Management (Vault) | 🟢 A | [`secrets-management-vault.md`](jobs/secrets-management-vault.md) |
 | Service Mesh & Cloud Networking | 🟢 A | [`service-mesh-networking.md`](jobs/service-mesh-networking.md) |
-| Software Design Patterns | 🟢 A | [`software-design-patterns.md`](jobs/software-design-patterns.md) |
+| Software Design Patterns | 🟡 C | [`software-design-patterns.md`](jobs/software-design-patterns.md) |
 | Spring Boot Development | 🟢 A | [`spring-boot-development.md`](jobs/spring-boot-development.md) |
 | SQL Databases — MySQL & SQLite | 🟢 A | [`sql-databases-mysql.md`](jobs/sql-databases-mysql.md) |
 | Stream Processing | 🟢 A | [`stream-processing.md`](jobs/stream-processing.md) |

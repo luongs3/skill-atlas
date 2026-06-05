@@ -26,4 +26,16 @@ The RPC framework that uses protobuf for service-to-service calls.
 
 ---
 
+## How to use this job
+
+Treat **Protocol Buffers** as the schema/contract layer and **gRPC** as the transport that consumes it — you almost always adopt both together, defining messages and services in `.proto` files and generating typed stubs per language. The real decision is tooling: use `buf` over raw `protoc` for linting, breaking-change detection, and remote codegen; reach for gRPC-Gateway or Connect when you also need a REST/JSON edge.
+
+## Pitfalls
+
+- **Never reuse or renumber field tags:** wire format is keyed on field numbers, not names. Reusing a retired tag for a new field silently corrupts data for old clients. `reserve` removed numbers and names so they can't be reassigned.
+- **`required` is gone, and proto3 defaults hide:** in proto3 scalar fields default to zero/empty and (historically) couldn't distinguish "unset" from "zero" — use `optional` or wrapper types when presence matters, or you'll mistake a real `0` for missing.
+- **Breaking changes sneak through codegen:** changing a field type, renaming an enum value's number, or moving a field into/out of `oneof` breaks wire or API compat even when codegen succeeds. Gate every `.proto` change with `buf breaking` against the published schema.
+
+---
+
 *See [api-design](api-design.md). The private skill is your org's proto conventions (package naming, field-numbering rules, breaking-change policy).*

@@ -30,4 +30,16 @@ Fast 2D WebGL renderer (games, interactive graphics).
 
 ---
 
+## How to use this job
+
+Reach for **Three.js** whenever you need true 3D — perspective cameras, lighting, meshes, GLTF models, or WebGPU. Use **PixiJS** when the work is fundamentally 2D (sprites, particles, interactive graphics, games) where Three.js's 3D machinery is overhead you don't need. The decision hinges on dimensionality, not complexity: a heavy 2D scene still belongs in Pixi, and a simple 3D cube still belongs in Three.
+
+## Pitfalls
+
+- **Geometries, materials, and textures are not garbage-collected** — they hold GPU resources. Removing a mesh from the scene leaks VRAM unless you explicitly call `.dispose()` on each. Long-running apps that rebuild scenes will crash the tab without disposal discipline.
+- **The render loop keeps running when the tab is hidden if you use `setInterval`/`setTimeout`** — always drive it with `requestAnimationFrame`, which pauses on hidden tabs and avoids burning battery and GPU.
+- **Loading many textures without a power-of-two check or mipmap setting causes silent quality/perf hits** — non-POT textures disable mipmapping and wrapping in WebGL1; resize assets or set the correct filters.
+
+---
+
 *See [frontend-frameworks](frontend-frameworks.md). Private skill = your render-loop + asset-loading setup.*

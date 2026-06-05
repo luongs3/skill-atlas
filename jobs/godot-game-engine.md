@@ -30,4 +30,16 @@ Curated index of Godot plugins, assets, and tutorials.
 
 ---
 
+## How to use this job
+
+Build from the **official engine + docs** as the source of truth — the docs cover the scene/node model, signals, physics, and export pipeline far better than scattered tutorials, and the version you install must match the docs version (Godot 3.x vs 4.x APIs differ heavily). Use **Awesome Godot** to find a maintained plugin or addon before writing your own, but vet each for the engine major version it targets.
+
+## Pitfalls
+
+- **3.x vs 4.x is a hard break:** GDScript syntax, the rendering backend (Vulkan), and many node names changed in Godot 4. Copy-pasting 3.x tutorial code into a 4.x project fails in subtle ways — confirm the version of any snippet or addon.
+- **Node references break on scene refactor:** `get_node("Path/To/Node")` and `$Path` are string/path-based, so renaming or reparenting a node in the scene tree silently breaks them at runtime, not at parse time. Prefer `@onready` exported NodePaths or unique names (`%Name`).
+- **`_process` vs `_physics_process`:** putting movement/physics in `_process` (frame-rate dependent) instead of `_physics_process` (fixed timestep) causes jitter and inconsistent collisions across machines.
+
+---
+
 *An LLM writes GDScript fine, but doesn't know your game's architecture (state machines, scene tree, signals). Encode that in a private skill.*

@@ -30,4 +30,16 @@ Drizzle (SQL-first, lightweight, edge-friendly) and TypeORM (decorator-based, ma
 
 ---
 
+## How to use this job
+
+Pick on how close you want to stay to SQL. **Prisma** gives the smoothest DX — schema-first modeling, generated client, managed migrations — at the cost of a heavier abstraction and a generated query engine. **Drizzle** is SQL-first and lightweight, with a tiny runtime that fits edge/serverless and lets you write queries that read like SQL. **TypeORM** is the mature decorator/Active Record option for codebases already invested in it. Choose one and standardize.
+
+## Pitfalls
+
+- **N+1 queries behind lazy relations:** loading a list then accessing a relation per row fires one query per item. It's invisible until you log SQL or watch latency — use eager `include`/`with`/joins and inspect generated queries.
+- **Migration drift:** the schema file, the migration history, and the actual database can diverge — especially after manual DB edits or `db push` in dev. Treat migrations as the source of truth, run them in CI, and diff against prod before deploy.
+- **Type safety ≠ runtime safety:** generated types reflect the schema at codegen time, not the live DB. A column dropped or retyped out-of-band compiles fine and fails at runtime; raw queries also bypass the type layer entirely.
+
+---
+
 *See [databases-sql](databases-sql.md) and [typescript-javascript](typescript-javascript.md). Private skill = your schema + query conventions.*
