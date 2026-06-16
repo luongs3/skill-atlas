@@ -1,0 +1,7 @@
+# Internal launch/ops drafts — NEVER commit to the public repo.
+# These tie CG pseudonyms + real identity together. Live in ~/Documents/me/ instead.
+LAUNCH-KIT.md
+linkedin-post.md
+devto-article.md
+*-ops.md
+*.private.md
