@@ -41,6 +41,13 @@ git clone https://github.com/luongs3/skill-atlas \
 Once installed, your agent loads `skill-atlas` when a task matches a known job and pulls
 the right trust-rated skills for it. No install needed to just browse — read [`jobs/`](jobs/) directly.
 
+**Uninstall:** it's a single self-contained directory with no global state, hooks, or
+background process — just delete it:
+
+```bash
+rm -rf ~/.claude/skills/skill-atlas
+```
+
 ## How to use it
 
 ![How Skill Atlas works: task → route to job → vetted tiered skills (A/B/C/D) → fork it private.](assets/how-it-works.png)
