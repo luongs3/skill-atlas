@@ -54,4 +54,30 @@ Nous Research's open-source agent runtime ("the agent that grows with you") — 
 
 ---
 
+## Tier C 🟡 — Useful, verify
+
+### thedotmack/claude-mem
+Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and inject
+- **source:** https://github.com/thedotmack/claude-mem
+- **reputation:** 82,803★ · pushed 2026-06-16 (auto-added 2026-06-17 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-06-17
+- **assumes:** JavaScript toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### JuliusBrussee/caveman
+🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
+- **source:** https://github.com/JuliusBrussee/caveman
+- **reputation:** 73,637★ · pushed 2026-06-12 (auto-added 2026-06-17 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-06-17
+- **assumes:** JavaScript toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### bytedance/deer-flow
+An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, suba
+- **source:** https://github.com/bytedance/deer-flow
+- **reputation:** 71,354★ · pushed 2026-06-17 (auto-added 2026-06-17 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-06-17
+- **assumes:** Python toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
 *This is the fastest-churning category in the atlas. The durable private skill is your agent architecture (eval harness, guardrails, retrieval strategy), not the framework. See [llm-app-development](llm-app-development.md).*

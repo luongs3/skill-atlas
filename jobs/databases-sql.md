@@ -51,3 +51,15 @@ A lighter migration tool, supports Go-based migrations as well as SQL.
 *The private fork that pays off here: a `sql-review` skill encoding your team's schema
 conventions (naming, indexing rules, when a migration needs `CONCURRENTLY`). Generic SQL
 help an LLM gives free; your team's rules it doesn't know.*
+
+---
+
+## Tier C 🟡 — Useful, verify
+
+### safishamsi/graphify
+AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, she
+- **source:** https://github.com/safishamsi/graphify
+- **reputation:** 68,261★ · pushed 2026-06-16 (auto-added 2026-06-17 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-06-17
+- **assumes:** Python toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.

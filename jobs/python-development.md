@@ -49,3 +49,15 @@ The canonical curated index of Python libraries — check before adding a depend
 
 *Substitution-resistant private skill: your project's packaging + venv conventions (uv/poetry/pip,
 src-layout, your CI's lint/type gates). An LLM writes Python fine; it doesn't know your repo's rules.*
+
+---
+
+## Tier C 🟡 — Useful, verify
+
+### shareAI-lab/learn-claude-code
+Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
+- **source:** https://github.com/shareAI-lab/learn-claude-code
+- **reputation:** 67,005★ · pushed 2026-06-15 (auto-added 2026-06-17 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-06-17
+- **assumes:** Python toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.

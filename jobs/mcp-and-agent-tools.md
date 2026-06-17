@@ -84,3 +84,19 @@ layers spanning Claude Code, Codex, opencode, Cursor, and more. Broad and ambiti
 - **last_validated:** 2026-06-17
 - **assumes:** a supported agent harness
 - **adapt:** read the specific layer you want before adopting; don't install the whole system on faith.
+
+### farion1231/cc-switch
+A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: 
+- **source:** https://github.com/farion1231/cc-switch
+- **reputation:** 102,782★ · pushed 2026-06-16 (auto-added 2026-06-17 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-06-17
+- **assumes:** Rust toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### lobehub/lobehub
+🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI t
+- **source:** https://github.com/lobehub/lobehub
+- **reputation:** 78,755★ · pushed 2026-06-17 (auto-added 2026-06-17 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-06-17
+- **assumes:** TypeScript toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
