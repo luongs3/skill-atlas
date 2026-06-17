@@ -29,14 +29,6 @@ The canonical reference for the dominant Python data library. Authoritative, alw
 
 ## Tier B 🔵 — Community-proven
 
-### Python for Data Analysis (Wes McKinney) — notebooks
-The companion notebooks to the standard pandas book, by pandas' creator. Trust by authorship.
-- **source:** https://github.com/wesm/pydata-book
-- **reputation:** Authored by the creator of pandas; **24,612★** · pushed 2025-10-17 (standard reference; >6mo since push → verify against current pandas)
-- **last_validated:** 2026-06-02
-- **assumes:** Python, Jupyter
-- **adapt:** none — learning material.
-
 ### awesome-datascience
 Actively-maintained curated index of data-science resources, tools, and datasets.
 - **source:** https://github.com/academic/awesome-datascience
@@ -56,6 +48,14 @@ Big collection of DS/ML notebooks (pandas, scikit-learn, TensorFlow).
 - **last_validated:** 2026-06-02
 - **assumes:** Python, Jupyter
 - **adapt:** use the pandas/EDA notebooks; treat the deep-learning ones as version-stale.
+
+### Python for Data Analysis (Wes McKinney) — notebooks
+The companion notebooks to the standard pandas book, by pandas' creator. Trust by authorship.
+- **source:** https://github.com/wesm/pydata-book
+- **reputation:** Authored by the creator of pandas; **24,612★** · pushed 2025-10-17 (standard reference; >6mo since push → verify against current pandas)
+- **last_validated:** 2026-06-02
+- **assumes:** Python, Jupyter
+- **adapt:** none — learning material.
 
 ---
 

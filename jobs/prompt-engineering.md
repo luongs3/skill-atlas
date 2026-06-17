@@ -19,18 +19,6 @@ just copy.
 - **assumes:** Claude API key for the exercises
 - **adapt:** none — it's a course; internalize, don't fork.
 
-### Anthropic Courses
-Broader official curriculum (API fundamentals, prompt eval, tool use).
-- **source:** https://github.com/anthropics/courses
-- **reputation:** Official Anthropic · **21,678★** · pushed 2025-11-13
-- **last_validated:** 2026-06-02 (HTML 200)
-- **assumes:** Claude API key
-- **adapt:** none.
-
-> ⚠️ `anthropics/courses` last pushed **2025-11-13** — >6mo at next review. Per
-> `_meta/SCHEMA.md`, treat as **C until reproven** if you read this after ~2026-05.
-> The official-source authorship keeps it useful, but check it isn't version-stale.
-
 ---
 
 ## Tier B 🔵 — Community-proven reference
@@ -45,10 +33,6 @@ The single best "how do the pros actually prompt" reference. Read critically —
 - **assumes:** nothing
 - **adapt:** study patterns; don't copy a whole prompt wholesale.
 
----
-
-## Tier C 🟡 — Useful, verify
-
 ### awesome-chatgpt-prompts
 Huge community prompt collection. Useful for breadth, but quality is uneven and it's
 ChatGPT-flavored — patterns transfer, exact wording often doesn't.
@@ -57,3 +41,15 @@ ChatGPT-flavored — patterns transfer, exact wording often doesn't.
 - **last_validated:** 2026-06-02
 - **assumes:** nothing
 - **adapt:** harvest a starting prompt, then rewrite for Claude + your task.
+
+### Anthropic Courses
+Broader official curriculum (API fundamentals, prompt eval, tool use).
+- **source:** https://github.com/anthropics/courses
+- **reputation:** Official Anthropic · **21,678★** · pushed 2025-11-13
+- **last_validated:** 2026-06-02 (HTML 200)
+- **assumes:** Claude API key
+- **adapt:** none.
+
+> ⚠️ `anthropics/courses` last pushed **2025-11-13** — >6mo at next review. Per
+> `_meta/SCHEMA.md`, treat as **C until reproven** if you read this after ~2026-05.
+> The official-source authorship keeps it useful, but check it isn't version-stale.

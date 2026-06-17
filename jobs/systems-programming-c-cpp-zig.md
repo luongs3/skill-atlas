@@ -25,15 +25,6 @@ The official C++ standards committee site; authoritative on the language standar
 - **assumes:** nothing
 - **adapt:** none — reference.
 
-### Zig compiler
-The reference Zig compiler. Note: pre-1.0 and last push **2025-11-27** (>6 months ago) — verify code
-against the current release, since Zig's std/syntax changes fast pre-1.0.
-- **source:** https://github.com/ziglang/zig
-- **reputation:** ziglang org · **42,975★** · pushed 2025-11-27
-- **last_validated:** 2026-06-04 (⚠️ verify against current release)
-- **assumes:** Zig toolchain installed
-- **adapt:** pin a Zig version; re-check API drift against release notes.
-
 ---
 
 ## Tier B 🔵 — Community-proven
@@ -51,3 +42,12 @@ The community-canonical C++ (and C) standard-library reference — the daily-dri
 *Substitution-resistant private skill: your build system (CMake/Meson/Zig build) conventions, your
 sanitizer/UBSan + warning-flag policy, and target/ABI constraints. An LLM writes C/C++/Zig fine; it
 doesn't know your repo's rules.*
+
+### Zig compiler
+The reference Zig compiler. Note: pre-1.0 and last push **2025-11-27** (>6 months ago) — verify code
+against the current release, since Zig's std/syntax changes fast pre-1.0.
+- **source:** https://github.com/ziglang/zig
+- **reputation:** ziglang org · **42,975★** · pushed 2025-11-27
+- **last_validated:** 2026-06-04 (⚠️ verify against current release)
+- **assumes:** Zig toolchain installed
+- **adapt:** pin a Zig version; re-check API drift against release notes.

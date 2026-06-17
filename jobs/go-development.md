@@ -38,10 +38,6 @@ The canonical curated index of Go libraries and tools — check before adding a 
 - **assumes:** nothing — it's an index
 - **adapt:** none.
 
----
-
-## Tier C 🟡 — Useful, verify (popular but contested)
-
 ### golang-standards/project-layout
 A widely-referenced project structure template. **Caveat:** popular but *not* official,
 and parts of the Go community actively dispute it for smaller projects.

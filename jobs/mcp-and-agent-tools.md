@@ -63,10 +63,6 @@ A curated set of engineering skills published straight from the author's `.claud
 - **assumes:** Claude Code
 - **adapt:** cherry-pick skills into your private set; his conventions are his — retune to yours.
 
----
-
-## Tier C 🟡 — Useful, verify
-
 ### Anthropic Cookbook
 Working code recipes for the Claude API, tool use, and agents. Authoritative code, but
 it's examples not a packaged skill — read and adapt.
@@ -84,6 +80,10 @@ layers spanning Claude Code, Codex, opencode, Cursor, and more. Broad and ambiti
 - **last_validated:** 2026-06-17
 - **assumes:** a supported agent harness
 - **adapt:** read the specific layer you want before adopting; don't install the whole system on faith.
+
+---
+
+## Tier C 🟡 — Useful, verify
 
 ### farion1231/cc-switch
 A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: 

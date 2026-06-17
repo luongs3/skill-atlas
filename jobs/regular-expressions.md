@@ -6,18 +6,6 @@
 
 ---
 
-## Tier B 🔵 — Community-proven
-
-### learn-regex
-A clear, example-driven guide to regex from the ground up, translated into many languages.
-- **source:** https://github.com/ziishaned/learn-regex
-- **reputation:** **46,117★** · pushed 2025-08-25 (high stars; >6mo since push but regex syntax is stable)
-- **last_validated:** 2026-06-05
-- **assumes:** nothing
-- **adapt:** none — learning reference.
-
----
-
 ## Tier A 🟢 — The right tool for this job
 
 For regex specifically, the highest-trust workflow is **an interactive tester plus the agent**:
@@ -36,3 +24,15 @@ pattern by reading it.
 *Regex is the canonical "looks right, is subtly wrong" failure. The private skill worth building
 is a tested pattern library — each pattern paired with the inputs it must match and must reject.
 See [linux-shell](linux-shell.md) for grep/ripgrep usage.*
+
+---
+
+## Tier C 🟡 — Useful, verify
+
+### learn-regex
+A clear, example-driven guide to regex from the ground up, translated into many languages.
+- **source:** https://github.com/ziishaned/learn-regex
+- **reputation:** **46,117★** · pushed 2025-08-25 (high stars; >6mo since push but regex syntax is stable)
+- **last_validated:** 2026-06-05
+- **assumes:** nothing
+- **adapt:** none — learning reference.

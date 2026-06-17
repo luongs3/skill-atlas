@@ -43,7 +43,7 @@ Visual + generative-design skills, same repo, all Tier A.
 
 ---
 
-## Tier C 🟡 — Useful, verify
+## Tier B 🔵 — Community-proven (high rep + maintained)
 
 ### OpenAI Cookbook (patterns transfer)
 Not Claude-specific, but the engineering recipes (RAG, function calling, eval) are
