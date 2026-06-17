@@ -53,3 +53,15 @@ Broader official curriculum (API fundamentals, prompt eval, tool use).
 > ⚠️ `anthropics/courses` last pushed **2025-11-13** — >6mo at next review. Per
 > `_meta/SCHEMA.md`, treat as **C until reproven** if you read this after ~2026-05.
 > The official-source authorship keeps it useful, but check it isn't version-stale.
+
+---
+
+## Tier C 🟡 — Useful, verify
+
+### shareAI-lab/learn-claude-code
+Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
+- **source:** https://github.com/shareAI-lab/learn-claude-code
+- **reputation:** 67,005★ · pushed 2026-06-15 (auto-added 2026-06-17 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-06-17
+- **assumes:** Python toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
