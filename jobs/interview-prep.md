@@ -34,6 +34,15 @@ Curated index of LeetCode patterns, lists, and tools.
 - **assumes:** nothing
 - **adapt:** none.
 
+### Snailclimb/JavaGuide
+The most popular Java-interview + backend study guide (CS fundamentals, databases, distributed
+systems, high-concurrency, system design, AI-app dev). Chinese-language.
+- **source:** https://github.com/Snailclimb/JavaGuide
+- **reputation:** **156,418★** · pushed 2026-06-15 (high stars + actively maintained)
+- **last_validated:** 2026-06-17
+- **assumes:** reads Chinese (or translate); Java/backend focus
+- **adapt:** none — study material. Build private flashcards from the topics you personally fumble.
+
 ---
 
 ## Tier C 🟡 — Useful but going stale (verify before relying)
