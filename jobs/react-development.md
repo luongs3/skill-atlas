@@ -42,15 +42,3 @@ The standard client routing library when you're not on a full framework.
 *Substitution-resistant private skill: your app's state architecture (server-state vs client-state split,
 which data lib, folder conventions, your design-system component contracts). An LLM writes hooks fine;
 it doesn't know how your codebase draws those boundaries.*
-
----
-
-## Tier C 🟡 — Useful, verify
-
-### ruvnet/RuView
-π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a sin
-- **source:** https://github.com/ruvnet/RuView
-- **reputation:** 74,245★ · pushed 2026-06-17 (auto-added 2026-06-17 by dev-scout; tier C until reviewed)
-- **last_validated:** 2026-06-17
-- **assumes:** Rust toolchain — verify before trusting
-- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
