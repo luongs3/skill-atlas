@@ -53,3 +53,15 @@ high-quality and the patterns port over.
 - **last_validated:** 2026-06-02
 - **assumes:** OpenAI-flavored examples — translate to Claude
 - **adapt:** lift the pattern, swap the SDK.
+
+---
+
+## Tier C 🟡 — Useful, verify
+
+### Leonxlnx/taste-skill
+Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
+- **source:** https://github.com/Leonxlnx/taste-skill
+- **reputation:** 46,286★ · pushed 2026-06-17 (auto-added 2026-06-18 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-06-18
+- **assumes:** JavaScript toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.

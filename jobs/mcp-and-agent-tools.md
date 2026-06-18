@@ -132,3 +132,35 @@ Production-grade engineering skills for AI coding agents.
 - **last_validated:** 2026-06-18
 - **assumes:** Python toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### upstash/context7
+Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
+- **source:** https://github.com/upstash/context7
+- **reputation:** 57,603★ · pushed 2026-06-17 (auto-added 2026-06-18 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-06-18
+- **assumes:** TypeScript toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### VoltAgent/awesome-openclaw-skills
+The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞
+- **source:** https://github.com/VoltAgent/awesome-openclaw-skills
+- **reputation:** 50,348★ · pushed 2026-06-16 (auto-added 2026-06-18 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-06-18
+- **assumes:** unknown toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### jeecgboot/JeecgBoot
+AI 低代码平台「低代码 + 零代码」双驱动！低代码可一键生成前后端代码;零代码可 5 分钟搭建系统;AI Skills 一句话画流程、设计表单、生成整套系统。内置 AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领「AI 生成 → 在线配置 → 代码生成 → 手工合
+- **source:** https://github.com/jeecgboot/JeecgBoot
+- **reputation:** 46,775★ · pushed 2026-06-16 (auto-added 2026-06-18 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-06-18
+- **assumes:** Java toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### zhayujie/CowAgent
+Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-model, mul
+- **source:** https://github.com/zhayujie/CowAgent
+- **reputation:** 45,394★ · pushed 2026-06-18 (auto-added 2026-06-18 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-06-18
+- **assumes:** Python toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.

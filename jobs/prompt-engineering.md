@@ -73,3 +73,19 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 - **last_validated:** 2026-06-18
 - **assumes:** TypeScript toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### shanraisshan/claude-code-best-practice
+from vibe coding to agentic engineering - practice makes claude perfect
+- **source:** https://github.com/shanraisshan/claude-code-best-practice
+- **reputation:** 58,223★ · pushed 2026-06-18 (auto-added 2026-06-18 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-06-18
+- **assumes:** HTML toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### santifer/career-ops
+AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
+- **source:** https://github.com/santifer/career-ops
+- **reputation:** 54,499★ · pushed 2026-06-17 (auto-added 2026-06-18 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-06-18
+- **assumes:** JavaScript toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
