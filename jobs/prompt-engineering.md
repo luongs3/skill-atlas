@@ -65,3 +65,11 @@ Bash is all you need -  A nano claude code–like 「agent harness」, built fro
 - **last_validated:** 2026-06-17
 - **assumes:** Python toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### Egonex-AI/Understand-Anything
+Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about.
+- **source:** https://github.com/Egonex-AI/Understand-Anything
+- **reputation:** 63,180★ · pushed 2026-06-18 (auto-added 2026-06-18 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-06-18
+- **assumes:** TypeScript toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.

@@ -51,3 +51,15 @@ today's standard is next quarter's legacy. So:
 2. **`last_validated` matters more here than anywhere** — re-check before trusting a tutorial.
 3. The durable private skill isn't "how to use LangChain" — it's **your app's architecture**
    (retrieval strategy, eval harness, guardrails), which survives a framework swap.
+
+---
+
+## Tier C 🟡 — Useful, verify
+
+### rtk-ai/rtk
+CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
+- **source:** https://github.com/rtk-ai/rtk
+- **reputation:** 63,473★ · pushed 2026-06-17 (auto-added 2026-06-18 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-06-18
+- **assumes:** Rust toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.

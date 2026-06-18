@@ -38,4 +38,14 @@ Start with **Expo** unless you have a hard reason not to — the managed workflo
 
 ---
 
+## Tier C 🟡 — Useful, verify
+
+### nexu-io/open-design
+🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile
+- **source:** https://github.com/nexu-io/open-design
+- **reputation:** 67,045★ · pushed 2026-06-18 (auto-added 2026-06-18 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-06-18
+- **assumes:** TypeScript toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
 *See [mobile-development](mobile-development.md) for the cross-framework picture and [react-development](react-development.md) for the React layer. Private skill = your app's nav + build pipeline.*

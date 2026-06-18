@@ -80,4 +80,12 @@ An open-source long-horizon SuperAgent harness that researches, codes, and creat
 - **assumes:** Python toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
 
+### ruvnet/ruflo
+🌊 The leading agent meta-harness for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversationa
+- **source:** https://github.com/ruvnet/ruflo
+- **reputation:** 60,035★ · pushed 2026-06-18 (auto-added 2026-06-18 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-06-18
+- **assumes:** TypeScript toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
 *This is the fastest-churning category in the atlas. The durable private skill is your agent architecture (eval harness, guardrails, retrieval strategy), not the framework. See [llm-app-development](llm-app-development.md).*

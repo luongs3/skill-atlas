@@ -100,3 +100,35 @@ A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, 
 - **last_validated:** 2026-06-17
 - **assumes:** TypeScript toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### ComposioHQ/awesome-claude-skills
+A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
+- **source:** https://github.com/ComposioHQ/awesome-claude-skills
+- **reputation:** 65,056★ · pushed 2026-05-22 (auto-added 2026-06-18 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-06-18
+- **assumes:** Python toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### gsd-build/get-shit-done
+A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
+- **source:** https://github.com/gsd-build/get-shit-done
+- **reputation:** 64,328★ · pushed 2026-05-31 (auto-added 2026-06-18 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-06-18
+- **assumes:** JavaScript toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### addyosmani/agent-skills
+Production-grade engineering skills for AI coding agents.
+- **source:** https://github.com/addyosmani/agent-skills
+- **reputation:** 62,593★ · pushed 2026-06-16 (auto-added 2026-06-18 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-06-18
+- **assumes:** Shell toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### sansan0/TrendRadar
+⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS
+- **source:** https://github.com/sansan0/TrendRadar
+- **reputation:** 59,601★ · pushed 2026-06-13 (auto-added 2026-06-18 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-06-18
+- **assumes:** Python toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
