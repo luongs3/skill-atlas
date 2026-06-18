@@ -70,7 +70,7 @@ rm -rf ~/.claude/skills/skill-atlas
 
 ## Index of jobs
 
-_100 jobs, every GitHub source live-verified via `gh api` (2026-06-05) — 0 dead links. Tier shown is the lead tier; open a job for the full tiered list._
+_101 jobs, every GitHub source live-verified via `gh api` (2026-06-05 or newer) - 0 dead links. Tier shown is the lead tier; open a job for the full tiered list._
 
 | Job | Best tier | File |
 |-----|-----------|------|
@@ -162,6 +162,7 @@ _100 jobs, every GitHub source live-verified via `gh api` (2026-06-05) — 0 dea
 | Software Design Patterns | 🟡 C | [`software-design-patterns.md`](jobs/software-design-patterns.md) |
 | Spring Boot Development | 🟢 A | [`spring-boot-development.md`](jobs/spring-boot-development.md) |
 | SQL Databases — MySQL & SQLite | 🟢 A | [`sql-databases-mysql.md`](jobs/sql-databases-mysql.md) |
+| Social Media Research | 🔵 B | [`social-media-research.md`](jobs/social-media-research.md) |
 | Stream Processing | 🟢 A | [`stream-processing.md`](jobs/stream-processing.md) |
 | Systems Programming (C / C++ / Zig) | 🟢 A | [`systems-programming-c-cpp-zig.md`](jobs/systems-programming-c-cpp-zig.md) |
 | Technical Interview Prep | 🔵 B | [`interview-prep.md`](jobs/interview-prep.md) |

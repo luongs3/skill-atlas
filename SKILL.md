@@ -43,6 +43,7 @@ At the **start of a task** that matches a known job, before hunting for tools yo
 | Writing Go tests, mocks, integration | `jobs/go-testing.md` |
 | Securing an app / authorized pentest | `jobs/security.md` |
 | Exploring / cleaning / charting data | `jobs/data-analysis.md` |
+| Social media / X research | `jobs/social-media-research.md` |
 | Data pipelines, ETL, Airflow/Spark/dbt | `jobs/data-engineering.md` |
 | Building a mobile app (Flutter/RN/iOS) | `jobs/mobile-development.md` |
 | Building an app on LLMs (RAG, agents) | `jobs/llm-app-development.md` |
