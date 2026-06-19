@@ -88,4 +88,12 @@ An open-source long-horizon SuperAgent harness that researches, codes, and creat
 - **assumes:** TypeScript toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
 
+### VoltAgent/awesome-agent-skills
+A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor
+- **source:** https://github.com/VoltAgent/awesome-agent-skills
+- **reputation:** 25,803★ · pushed 2026-06-16 (auto-added 2026-06-19 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-06-19
+- **assumes:** unknown toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
 *This is the fastest-churning category in the atlas. The durable private skill is your agent architecture (eval harness, guardrails, retrieval strategy), not the framework. See [llm-app-development](llm-app-development.md).*

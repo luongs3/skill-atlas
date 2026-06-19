@@ -52,3 +52,11 @@ A readable bash scripting primer.
 *The highest-value private skill here: a personal `bash-safety` skill encoding the patterns
 you keep getting wrong (`set -euo pipefail`, quoting `"$var"`, `[[ ]]` over `[ ]`) — the
 exact things ShellCheck flags, turned into defaults you write from the start.*
+
+### googleworkspace/cli
+Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google 
+- **source:** https://github.com/googleworkspace/cli
+- **reputation:** 27,149★ · pushed 2026-06-10 (auto-added 2026-06-19 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-06-19
+- **assumes:** Rust toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.

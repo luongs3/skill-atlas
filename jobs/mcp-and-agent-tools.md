@@ -212,3 +212,51 @@ GitHub's official MCP Server
 - **last_validated:** 2026-06-19
 - **assumes:** Go toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### assafelovic/gpt-researcher
+An autonomous agent that conducts deep research on any data using any LLM providers
+- **source:** https://github.com/assafelovic/gpt-researcher
+- **reputation:** 27,777★ · pushed 2026-05-28 (auto-added 2026-06-19 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-06-19
+- **assumes:** Python toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### oraios/serena
+A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
+- **source:** https://github.com/oraios/serena
+- **reputation:** 25,530★ · pushed 2026-06-16 (auto-added 2026-06-19 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-06-19
+- **assumes:** Python toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### OthmanAdi/planning-with-files
+Persistent file-based planning for AI coding agents and long-running agentic tasks. Crash-proof markdown plans that survive context loss and
+- **source:** https://github.com/OthmanAdi/planning-with-files
+- **reputation:** 23,591★ · pushed 2026-06-16 (auto-added 2026-06-19 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-06-19
+- **assumes:** Python toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### activepieces/activepieces
+AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents
+- **source:** https://github.com/activepieces/activepieces
+- **reputation:** 22,816★ · pushed 2026-06-19 (auto-added 2026-06-19 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-06-19
+- **assumes:** TypeScript toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### JimLiu/baoyu-skills
+(no description provided)
+- **source:** https://github.com/JimLiu/baoyu-skills
+- **reputation:** 21,960★ · pushed 2026-06-18 (auto-added 2026-06-19 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-06-19
+- **assumes:** TypeScript toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### czlonkowski/n8n-mcp
+A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
+- **source:** https://github.com/czlonkowski/n8n-mcp
+- **reputation:** 21,845★ · pushed 2026-06-18 (auto-added 2026-06-19 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-06-19
+- **assumes:** TypeScript toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
