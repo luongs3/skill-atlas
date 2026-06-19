@@ -63,3 +63,11 @@ CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. S
 - **last_validated:** 2026-06-18
 - **assumes:** Rust toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### DietrichGebert/ponytail
+Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+- **source:** https://github.com/DietrichGebert/ponytail
+- **reputation:** 37,251★ · pushed 2026-06-19 (auto-added 2026-06-19 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-06-19
+- **assumes:** JavaScript toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.

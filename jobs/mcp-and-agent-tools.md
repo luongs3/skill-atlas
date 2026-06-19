@@ -164,3 +164,51 @@ Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skil
 - **last_validated:** 2026-06-18
 - **assumes:** Python toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### ChromeDevTools/chrome-devtools-mcp
+Chrome DevTools for coding agents
+- **source:** https://github.com/ChromeDevTools/chrome-devtools-mcp
+- **reputation:** 43,958★ · pushed 2026-06-18 (auto-added 2026-06-19 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-06-19
+- **assumes:** TypeScript toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### sickn33/antigravity-awesome-skills
+Installable GitHub library of 1,500+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes speciali
+- **source:** https://github.com/sickn33/antigravity-awesome-skills
+- **reputation:** 41,073★ · pushed 2026-06-18 (auto-added 2026-06-19 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-06-19
+- **assumes:** Python toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### wshobson/agents
+Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI
+- **source:** https://github.com/wshobson/agents
+- **reputation:** 36,940★ · pushed 2026-06-17 (auto-added 2026-06-19 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-06-19
+- **assumes:** Python toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### bytedance/UI-TARS-desktop
+The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
+- **source:** https://github.com/bytedance/UI-TARS-desktop
+- **reputation:** 36,876★ · pushed 2026-06-18 (auto-added 2026-06-19 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-06-19
+- **assumes:** TypeScript toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### github/awesome-copilot
+Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
+- **source:** https://github.com/github/awesome-copilot
+- **reputation:** 35,275★ · pushed 2026-06-19 (auto-added 2026-06-19 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-06-19
+- **assumes:** Python toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### github/github-mcp-server
+GitHub's official MCP Server
+- **source:** https://github.com/github/github-mcp-server
+- **reputation:** 30,801★ · pushed 2026-06-18 (auto-added 2026-06-19 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-06-19
+- **assumes:** Go toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.

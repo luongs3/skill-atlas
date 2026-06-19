@@ -89,3 +89,11 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 - **last_validated:** 2026-06-18
 - **assumes:** JavaScript toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### K-Dense-AI/scientific-agent-skills
+Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. 140 ready-to-use ski
+- **source:** https://github.com/K-Dense-AI/scientific-agent-skills
+- **reputation:** 28,699★ · pushed 2026-06-15 (auto-added 2026-06-19 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-06-19
+- **assumes:** Python toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
