@@ -5,3 +5,6 @@ linkedin-post.md
 devto-article.md
 *-ops.md
 *.private.md
+
+# One-shot bulk-add scratch scripts (kept locally, not part of the product)
+scripts/_batch*.py
