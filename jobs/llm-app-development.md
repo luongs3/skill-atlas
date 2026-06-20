@@ -71,3 +71,11 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 - **last_validated:** 2026-06-19
 - **assumes:** JavaScript toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### 1Panel-dev/MaxKB
+🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。
+- **source:** https://github.com/1Panel-dev/MaxKB
+- **reputation:** 21,369★ · pushed 2026-06-19 (auto-added 2026-06-20 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-06-20
+- **assumes:** Python toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
