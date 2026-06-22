@@ -260,3 +260,11 @@ A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflow
 - **last_validated:** 2026-06-19
 - **assumes:** TypeScript toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### phuryn/pm-skills
+PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
+- **source:** https://github.com/phuryn/pm-skills
+- **reputation:** 20,310★ · pushed 2026-06-06 (auto-added 2026-06-22 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-06-22
+- **assumes:** unknown toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
