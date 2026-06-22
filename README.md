@@ -70,7 +70,7 @@ rm -rf ~/.claude/skills/skill-atlas
 
 ## Index of jobs
 
-_200 jobs, 539 skill entries — every GitHub source live-verified via `gh api` (2026-06-19 or newer). Tier shown is the lead tier; open a job for the full tiered list._
+_201 jobs, 546 skill entries — every GitHub source live-verified via `gh api` (2026-06-19 or newer). Tier shown is the lead tier; open a job for the full tiered list._
 
 | Job | Best tier | File |
 |-----|-----------|------|
@@ -262,6 +262,7 @@ _200 jobs, 539 skill entries — every GitHub source live-verified via `gh api` 
 | Upwork Freelancing | 🟢 A | [`upwork.md`](jobs/upwork.md) |
 | Vector Databases — Semantic Search | 🟢 A | [`vector-databases.md`](jobs/vector-databases.md) |
 | Velero — Kubernetes Backup & DR | 🟢 A | [`velero-backup.md`](jobs/velero-backup.md) |
+| Vetting Agent Skills & LLM Security | 🟢 A | [`agent-skill-security.md`](jobs/agent-skill-security.md) |
 | Vite — Frontend Build Tooling | 🟢 A | [`vite-build-tooling.md`](jobs/vite-build-tooling.md) |
 | Vue & Svelte Development | 🟢 A | [`vue-svelte-development.md`](jobs/vue-svelte-development.md) |
 | Web / Frontend Development | 🟢 A | [`web-frontend.md`](jobs/web-frontend.md) |

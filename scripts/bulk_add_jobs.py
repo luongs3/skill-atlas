@@ -21,7 +21,7 @@ import sys
 REPO_DIR = os.path.expanduser("~/Developer/skill-atlas")
 JOBS_DIR = os.path.join(REPO_DIR, "jobs")
 GH = "/opt/homebrew/bin/gh"
-TODAY = "2026-06-19"
+TODAY = "2026-06-22"
 
 TIER_HEADERS = {
     "A": "## Tier A 🟢 — Canonical",
