@@ -1,0 +1,64 @@
+name: skillspector-scan
+
+# Advisory security scan of the atlas with NVIDIA SkillSpector
+# (https://github.com/NVIDIA/SkillSpector). The atlas is a docs-only trust index,
+# so SkillSpector's free static pass is high-recall / low-precision here — it flags
+# text that merely *names* risky things. This job is therefore ADVISORY: it never
+# fails the build. It posts a triage summary to the run, and uploads SARIF to the
+# Security tab for a human glance. See jobs/agent-skill-security.md for the dogfood
+# write-up explaining why a 100/CRITICAL score on this repo is ~20/22 false positives.
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  schedule:
+    - cron: "0 6 1 * *"   # 06:00 UTC on the 1st of each month
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+  security-events: write   # upload SARIF to the Security tab
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"   # SkillSpector requires >=3.12,<3.15
+
+      - name: Install SkillSpector
+        run: pip install "git+https://github.com/NVIDIA/SkillSpector.git"
+
+      - name: Scan only what ships (git archive HEAD)
+        run: |
+          set +e
+          mkdir -p _shipped
+          git archive HEAD | tar -x -C _shipped
+          echo "Scanning $(find _shipped -type f | wc -l) tracked files"
+          # SkillSpector exits 0 even on CRITICAL, so we don't gate on its exit code.
+          skillspector scan _shipped --no-llm --format json   --output skillspector.json   || true
+          skillspector scan _shipped --no-llm --format sarif  --output skillspector.sarif || true
+
+      - name: Advisory summary (never fails the build)
+        run: python3 scripts/skillspector_gate.py skillspector.json
+
+      - name: Upload SARIF to Security tab
+        if: always() && hashFiles('skillspector.sarif') != ''
+        uses: github/codeql-action/upload-sarif@v3
+        with:
+          sarif_file: skillspector.sarif
+          category: skillspector
+
+      - name: Archive JSON report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: skillspector-report
+          path: |
+            skillspector.json
+            skillspector.sarif
+          if-no-files-found: ignore
