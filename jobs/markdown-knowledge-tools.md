@@ -23,3 +23,15 @@ Markdown processor (unified/AST) — lint, transform, generate. The programmatic
 - **last_validated:** 2026-06-19
 - **assumes:** Node
 - **adapt:** fork your plugin pipeline.
+
+---
+
+## Tier C 🟡 — Useful, verify
+
+### topoteretes/cognee
+Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted 
+- **source:** https://github.com/topoteretes/cognee
+- **reputation:** 21,627★ · pushed 2026-06-25 (auto-added 2026-06-25 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-06-25
+- **assumes:** Python toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
