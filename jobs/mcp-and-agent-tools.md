@@ -268,3 +268,11 @@ PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from disco
 - **last_validated:** 2026-06-22
 - **assumes:** unknown toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### DeusData/codebase-memory-mcp
+High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 langu
+- **source:** https://github.com/DeusData/codebase-memory-mcp
+- **reputation:** 19,684★ · pushed 2026-06-29 (auto-added 2026-06-29 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-06-29
+- **assumes:** C toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
