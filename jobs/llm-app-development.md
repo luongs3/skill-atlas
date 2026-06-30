@@ -79,3 +79,11 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 - **last_validated:** 2026-06-20
 - **assumes:** Python toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### hesreallyhim/awesome-claude-code
+A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
+- **source:** https://github.com/hesreallyhim/awesome-claude-code
+- **reputation:** 47,602★ · pushed 2026-06-29 (auto-added 2026-06-30 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-06-30
+- **assumes:** Python toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
