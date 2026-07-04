@@ -63,3 +63,11 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and
 - **last_validated:** 2026-06-17
 - **assumes:** Python toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### Graphify-Labs/graphify
+AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, she
+- **source:** https://github.com/Graphify-Labs/graphify
+- **reputation:** 77,138★ · pushed 2026-07-03 (auto-added 2026-07-04 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-07-04
+- **assumes:** Python toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
