@@ -17,7 +17,7 @@ STALE_DAYS="${STALE_DAYS:-180}"
 now=$(date -u +%s)
 
 # Hosts that bot-block datacenter/CI IPs (expected non-200) — not treated as dead.
-allow_block_re='support\.upwork\.com|reddit\.com'
+allow_block_re='support\.upwork\.com|reddit\.com|cppreference\.com|isocpp\.org|phaser\.io|pixijs\.download|solidjs\.com'
 
 dead=()      # url  (non-200, not in allowlist)
 stale=()     # "url  pushed YYYY-MM-DD"

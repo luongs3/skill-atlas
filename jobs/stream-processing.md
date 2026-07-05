@@ -18,7 +18,7 @@ The de-facto event-streaming platform — durable logs, partitions, consumer gro
 
 ### Apache Flink
 True low-latency stream processing (stateful, exactly-once) vs Spark's micro-batch.
-- **source:** https://github.com/apache/flink (docs: https://flink.apache.org/docs)
+- **source:** https://github.com/apache/flink (docs: https://flink.apache.org/docs/)
 - **reputation:** Official ASF · **26,042★** · pushed 2026-06-04
 - **last_validated:** 2026-06-05
 - **assumes:** a Flink cluster
