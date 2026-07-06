@@ -30,7 +30,10 @@ or learning an ecosystem:
 
 ---
 
-## Tier C 🟡 — Useful but aging
+*This is the "where do I even start" job. For a senior eng, the value isn't the lists
+themselves (you know how to learn) — it's pointing a *junior teammate or your agent* at a
+vetted starting point instead of a random Google result. The atlas adds the trust layer
+these famous lists lack: which are maintained vs. which are coasting on old stars.*
 
 ### Project-Based Learning
 A list of "build X to learn" tutorials across languages — the best way to actually learn by
@@ -40,10 +43,3 @@ doing.
 - **last_validated:** 2026-06-03
 - **assumes:** nothing
 - **adapt:** pick a project matching what you want to learn; confirm its tutorial link is live first.
-
----
-
-*This is the "where do I even start" job. For a senior eng, the value isn't the lists
-themselves (you know how to learn) — it's pointing a *junior teammate or your agent* at a
-vetted starting point instead of a random Google result. The atlas adds the trust layer
-these famous lists lack: which are maintained vs. which are coasting on old stars.*
