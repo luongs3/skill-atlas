@@ -276,3 +276,11 @@ High-performance code intelligence MCP server. Indexes codebases into a persiste
 - **last_validated:** 2026-06-29
 - **assumes:** C toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### danny-avila/LibreChat
+Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, Open
+- **source:** https://github.com/danny-avila/LibreChat
+- **reputation:** 40,370★ · pushed 2026-07-06 (auto-added 2026-07-07 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-07-07
+- **assumes:** TypeScript toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
