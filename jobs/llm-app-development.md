@@ -5,7 +5,7 @@ this is the framework layer; for serving/hosting models see
 [llm-serving-inference](llm-serving-inference.md), and for prompts see
 [prompt-engineering](prompt-engineering.md).
 
-> Reputation pulled live **2026-06-03** via `gh api`.
+> Reputation pulled live **2026-06-03** via `gh api`; RouterBase entry rechecked **2026-07-07**.
 
 ---
 
@@ -87,3 +87,11 @@ A curated list of awesome skills, hooks, slash-commands, agent orchestrators, ap
 - **last_validated:** 2026-06-30
 - **assumes:** Python toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### zenlee123/routerbase-agent-skills
+Codex and agent skills for integrating applications with RouterBase as an OpenAI-compatible model gateway, planning model routing and fallback, and building media generation workflows.
+- **source:** https://github.com/zenlee123/routerbase-agent-skills (product: [routerbase](https://routerbase.com/))
+- **reputation:** 0★ · pushed 2026-07-05 · homepage https://routerbase.com/ (new repo; tier C until external usage and review)
+- **last_validated:** 2026-07-07
+- **assumes:** Codex or compatible agent skill runtime; RouterBase account and API key for live model calls.
+- **adapt:** fork the routing defaults, model choices, credential names, and privacy checks for your app.
