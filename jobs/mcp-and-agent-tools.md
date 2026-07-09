@@ -284,3 +284,11 @@ Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, 
 - **last_validated:** 2026-07-07
 - **assumes:** TypeScript toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### sickn33/agentic-awesome-skills
+Installable GitHub library of 1,935+ agentic skills for Claude Code, Cursor, Codex CLI, Autohand Code, Gemini CLI, Antigravity, and more. In
+- **source:** https://github.com/sickn33/agentic-awesome-skills
+- **reputation:** 42,643★ · pushed 2026-07-08 (auto-added 2026-07-09 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-07-09
+- **assumes:** Python toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
