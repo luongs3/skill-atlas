@@ -8,3 +8,7 @@ devto-article.md
 
 # One-shot bulk-add scratch scripts (kept locally, not part of the product)
 scripts/_batch*.py
+
+# Python bytecode
+__pycache__/
+*.pyc

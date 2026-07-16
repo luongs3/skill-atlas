@@ -70,11 +70,12 @@ rm -rf ~/.claude/skills/skill-atlas
 
 ## Index of jobs
 
-_201 jobs, 546 skill entries — every GitHub source live-verified via `gh api` (2026-06-19 or newer). Tier shown is the lead tier; open a job for the full tiered list._
+_211 jobs, 594 skill entries — every GitHub source live-verified via `gh api` (2026-06-19 or newer). Tier shown is the lead tier; open a job for the full tiered list._
 
 | Job | Best tier | File |
 |-----|-----------|------|
 | 3D Web Graphics | 🟢 A | [`3d-web-graphics.md`](jobs/3d-web-graphics.md) |
+| Accountant / Bookkeeper | 🔵 B | [`accountant-bookkeeping.md`](jobs/accountant-bookkeeping.md) |
 | Agent Frameworks — LangGraph, CrewAI, AutoGen | 🟢 A | [`agent-frameworks-langgraph.md`](jobs/agent-frameworks-langgraph.md) |
 | AI Agent Orchestration | 🟢 A | [`ai-agent-orchestration.md`](jobs/ai-agent-orchestration.md) |
 | Algorithms & System Design | 🔵 B | [`algorithms-system-design.md`](jobs/algorithms-system-design.md) |
@@ -116,6 +117,7 @@ _201 jobs, 546 skill entries — every GitHub source live-verified via `gh api` 
 | Container & Supply-Chain Security | 🟢 A | [`container-image-scanning.md`](jobs/container-image-scanning.md) |
 | Container Runtimes & Compose | 🟢 A | [`container-runtimes.md`](jobs/container-runtimes.md) |
 | Crossplane — Control-Plane IaC | 🟢 A | [`crossplane-control-plane.md`](jobs/crossplane-control-plane.md) |
+| Customer Support Agent / Support Ops | 🔵 B | [`customer-support-agent.md`](jobs/customer-support-agent.md) |
 | Dagster & Prefect — Modern Pipelines | 🟢 A | [`dagster-prefect-pipelines.md`](jobs/dagster-prefect-pipelines.md) |
 | Dart Language | 🟢 A | [`dart-language.md`](jobs/dart-language.md) |
 | Data & Model Versioning | 🟢 A | [`data-versioning.md`](jobs/data-versioning.md) |
@@ -145,6 +147,7 @@ _201 jobs, 546 skill entries — every GitHub source live-verified via `gh api` 
 | FastAPI Development | 🟢 A | [`fastapi-development.md`](jobs/fastapi-development.md) |
 | Feature Stores | 🟢 A | [`feature-stores.md`](jobs/feature-stores.md) |
 | FFmpeg — Audio/Video Processing | 🟢 A | [`ffmpeg-media.md`](jobs/ffmpeg-media.md) |
+| Financial Analyst | 🔵 B | [`financial-analyst.md`](jobs/financial-analyst.md) |
 | Fine-Tuning LLMs | 🟢 A | [`llm-finetuning.md`](jobs/llm-finetuning.md) |
 | Flutter (Mobile) | 🟢 A | [`flutter-mobile.md`](jobs/flutter-mobile.md) |
 | Frontend Frameworks | 🟢 A | [`frontend-frameworks.md`](jobs/frontend-frameworks.md) |
@@ -171,12 +174,14 @@ _201 jobs, 546 skill entries — every GitHub source live-verified via `gh api` 
 | Java Development | 🟢 A | [`java-development.md`](jobs/java-development.md) |
 | JavaScript / TS Testing | 🔵 B | [`javascript-testing.md`](jobs/javascript-testing.md) |
 | Jetpack Compose — Android | 🟢 A | [`jetpack-compose-android.md`](jobs/jetpack-compose-android.md) |
+| Journalist / Newsroom | 🔵 B | [`journalist-newsroom.md`](jobs/journalist-newsroom.md) |
 | JS Package Managers | 🔵 B | [`javascript-package-managers.md`](jobs/javascript-package-managers.md) |
 | Kotlin Development | 🟢 A | [`kotlin-development.md`](jobs/kotlin-development.md) |
 | Kotlin Multiplatform | 🟢 A | [`kotlin-multiplatform.md`](jobs/kotlin-multiplatform.md) |
 | Kubernetes — Container Orchestration | 🟢 A | [`kubernetes-orchestration.md`](jobs/kubernetes-orchestration.md) |
 | Lakehouse Tables — Delta & Iceberg | 🟢 A | [`delta-iceberg-lakehouse.md`](jobs/delta-iceberg-lakehouse.md) |
 | Laravel / PHP Development | 🟢 A | [`laravel-php-development.md`](jobs/laravel-php-development.md) |
+| Lawyer / Legal Work | 🔵 B | [`lawyer-legal-work.md`](jobs/lawyer-legal-work.md) |
 | Learning English | 🔴 D | [`learning-english.md`](jobs/learning-english.md) |
 | Learning Resources (general programming) | 🔵 B | [`learning-resources.md`](jobs/learning-resources.md) |
 | Linux & Shell | 🔵 B | [`linux-shell.md`](jobs/linux-shell.md) |
@@ -187,6 +192,7 @@ _201 jobs, 546 skill entries — every GitHub source live-verified via `gh api` 
 | Log Aggregation & Tracing | 🟢 A | [`log-aggregation.md`](jobs/log-aggregation.md) |
 | Machine Learning (PyTorch) | 🟢 A | [`machine-learning-pytorch.md`](jobs/machine-learning-pytorch.md) |
 | Markdown & Knowledge Tooling | 🟢 A | [`markdown-knowledge-tools.md`](jobs/markdown-knowledge-tools.md) |
+| Marketer / Digital Marketing | 🔵 B | [`marketer-digital-marketing.md`](jobs/marketer-digital-marketing.md) |
 | Message Queues & Streaming | 🟢 A | [`message-queues-streaming.md`](jobs/message-queues-streaming.md) |
 | ML Data Apps (Streamlit/Gradio) | 🔵 B | [`ml-data-apps.md`](jobs/ml-data-apps.md) |
 | ML Experiment Tracking | 🟢 A | [`experiment-tracking.md`](jobs/experiment-tracking.md) |
@@ -200,7 +206,7 @@ _201 jobs, 546 skill entries — every GitHub source live-verified via `gh api` 
 | Nginx & Web Servers | 🟢 A | [`nginx-web-servers.md`](jobs/nginx-web-servers.md) |
 | NLP — Classic Text Processing | 🟢 A | [`nlp-spacy.md`](jobs/nlp-spacy.md) |
 | Node.js Backend Frameworks | 🟢 A | [`nodejs-backend-frameworks.md`](jobs/nodejs-backend-frameworks.md) |
-| Object Storage (S3) | 🔵 B | [`object-storage-s3.md`](jobs/object-storage-s3.md) |
+| Object Storage (S3) | 🟡 C | [`object-storage-s3.md`](jobs/object-storage-s3.md) |
 | Observability & Monitoring | 🟢 A | [`observability-monitoring.md`](jobs/observability-monitoring.md) |
 | Office Documents (Word / PDF / PowerPoint / Excel) | 🟢 A | [`office-documents.md`](jobs/office-documents.md) |
 | ONNX — Model Interop & Optimization | 🟢 A | [`onnx-model-interop.md`](jobs/onnx-model-interop.md) |
@@ -210,6 +216,7 @@ _201 jobs, 546 skill entries — every GitHub source live-verified via `gh api` 
 | Phaser (Web Games) | 🟢 A | [`phaser-web-games.md`](jobs/phaser-web-games.md) |
 | PostgreSQL — the Database, Deep | 🟢 A | [`postgresql-database.md`](jobs/postgresql-database.md) |
 | Progressive Delivery — Canary & Blue/Green | 🔵 B | [`argo-rollouts-progressive-delivery.md`](jobs/argo-rollouts-progressive-delivery.md) |
+| Project Manager | 🔵 B | [`project-manager.md`](jobs/project-manager.md) |
 | Prometheus — Metrics & Alerting | 🟢 A | [`prometheus-monitoring.md`](jobs/prometheus-monitoring.md) |
 | Prompt Engineering | 🟢 A | [`prompt-engineering.md`](jobs/prompt-engineering.md) |
 | Property-Based Testing | 🟢 A | [`property-based-testing.md`](jobs/property-based-testing.md) |
@@ -228,6 +235,7 @@ _201 jobs, 546 skill entries — every GitHub source live-verified via `gh api` 
 | React Native (Mobile) | 🟢 A | [`react-native-mobile.md`](jobs/react-native-mobile.md) |
 | Realtime — WebSockets & Pub/Sub | 🟢 A | [`realtime-websockets.md`](jobs/realtime-websockets.md) |
 | Recommender Systems | 🔵 B | [`recommender-systems.md`](jobs/recommender-systems.md) |
+| Recruiter / Talent Acquisition | 🔵 B | [`recruiter-talent-acquisition.md`](jobs/recruiter-talent-acquisition.md) |
 | Redis — Caching & In-Memory Data | 🟢 A | [`redis-caching.md`](jobs/redis-caching.md) |
 | Regular Expressions | 🟢 A | [`regular-expressions.md`](jobs/regular-expressions.md) |
 | Release Automation & Versioning | 🟢 A | [`release-automation.md`](jobs/release-automation.md) |
@@ -250,12 +258,14 @@ _201 jobs, 546 skill entries — every GitHub source live-verified via `gh api` 
 | SwiftUI — iOS / Apple Apps | 🟢 A | [`swiftui-ios.md`](jobs/swiftui-ios.md) |
 | Systems Programming (C / C++ / Zig) | 🟢 A | [`systems-programming-c-cpp-zig.md`](jobs/systems-programming-c-cpp-zig.md) |
 | Tailwind CSS — Utility-First Styling | 🟢 A | [`tailwind-css.md`](jobs/tailwind-css.md) |
+| Teacher / Educator | 🔵 B | [`teacher-educator.md`](jobs/teacher-educator.md) |
 | Technical Interview Prep | 🔵 B | [`interview-prep.md`](jobs/interview-prep.md) |
 | Terminal Power Tools | 🟢 A | [`terminal-shell-tools.md`](jobs/terminal-shell-tools.md) |
 | Time-Series Databases | 🟢 A | [`timeseries-databases.md`](jobs/timeseries-databases.md) |
 | Time-Series Forecasting | 🟢 A | [`timeseries-forecasting.md`](jobs/timeseries-forecasting.md) |
 | TLS Certificates & HTTPS | 🟢 A | [`tls-certificates.md`](jobs/tls-certificates.md) |
 | Transactional Email & Templates | 🟢 A | [`email-transactional.md`](jobs/email-transactional.md) |
+| Translator / Localization Specialist | 🔵 B | [`translator-localization.md`](jobs/translator-localization.md) |
 | Trino / Presto — Federated SQL | 🟢 A | [`trino-presto-query.md`](jobs/trino-presto-query.md) |
 | TypeScript & JavaScript | 🟢 A | [`typescript-javascript.md`](jobs/typescript-javascript.md) |
 | TypeScript ORMs | 🔵 B | [`typescript-orm.md`](jobs/typescript-orm.md) |
