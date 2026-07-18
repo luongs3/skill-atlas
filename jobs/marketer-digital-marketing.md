@@ -52,4 +52,14 @@ Simple, privacy-focused web analytics — when you need traffic numbers without 
 
 ---
 
+## Tier C 🟡 — Useful, verify
+
+### coreyhaines31/marketingskills
+Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
+- **source:** https://github.com/coreyhaines31/marketingskills
+- **reputation:** 40,413★ · pushed 2026-07-16 (auto-added 2026-07-18 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-07-18
+- **assumes:** JavaScript toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
 **Honest gap:** platform-API skills (Google Ads, Meta, TikTok) exist only as SDKs, not trustworthy public agent skills — and they churn quarterly. Campaign strategy/brand voice is inherently a **private fork** (your ICP, your tone, your offer math).
