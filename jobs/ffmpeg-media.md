@@ -27,3 +27,15 @@ Pythonic bindings that build FFmpeg filter graphs — readable pipelines instead
 - **last_validated:** 2026-06-19
 - **assumes:** Python + ffmpeg
 - **adapt:** fork your graph-building functions.
+
+---
+
+## Tier C 🟡 — Useful, verify
+
+### calesthio/OpenMontage
+World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a 
+- **source:** https://github.com/calesthio/OpenMontage
+- **reputation:** 39,820★ · pushed 2026-07-19 (auto-added 2026-07-19 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-07-19
+- **assumes:** Python toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
