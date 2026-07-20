@@ -34,10 +34,6 @@ Assignment creation + autograding for Jupyter notebooks — the standard for pro
 - **assumes:** Jupyter
 - **adapt:** fork your assignment templates + test cells.
 
----
-
-## Tier C 🟡 — Useful, verify
-
 ### Oppia
 Interactive-lesson platform (explorations with feedback loops). Solid mission, heavier to self-host — verify fit.
 - **source:** https://github.com/oppia/oppia

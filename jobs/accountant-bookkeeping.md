@@ -42,10 +42,6 @@ Full invoicing platform (Laravel) — invoices, quotes, payments, client portal.
 - **assumes:** PHP/Laravel or Docker
 - **adapt:** fork invoice templates + payment-gateway config.
 
----
-
-## Tier C 🟡 — Useful, verify
-
 ### ledger (ledger-cli)
 The original plain-text accounting CLI. Still works, community quieter than hledger/beancount — verify fit before committing.
 - **source:** https://github.com/ledger/ledger

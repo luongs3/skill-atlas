@@ -20,7 +20,7 @@ Reach for **MinIO** when you need the S3 API on infrastructure you control — l
 
 ---
 
-## Tier C 🟡 — Useful, verify
+## Tier B 🔵 — Community-proven (high rep + maintained)
 
 ### MinIO
 High-performance S3-compatible object storage you can self-host. NOTE: pushed 2026-04, slightly older than most.

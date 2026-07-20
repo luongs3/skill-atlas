@@ -26,10 +26,6 @@ The heavyweight open-source PM suite — Gantt, work packages, budgets, agile bo
 - **assumes:** Rails/Docker
 - **adapt:** fork your project templates + roles.
 
----
-
-## Tier C 🟡 — Useful, verify
-
 ### Focalboard
 Kanban/boards (Notion-board-shaped). Handed from Mattermost core to community maintenance — verify current health before adopting.
 - **source:** https://github.com/mattermost-community/focalboard

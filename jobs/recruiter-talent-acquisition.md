@@ -10,14 +10,6 @@
 
 ## Tier B 🔵 — Community-proven
 
-### JSON Resume
-The open resume-data standard — parse resumes INTO a schema an agent can filter/rank/render, instead of regexing PDFs.
-- **source:** https://github.com/jsonresume/resume-schema
-- **reputation:** **2,398★** · pushed 2026-06-12 · ⚠️ ARCHIVED
-- **last_validated:** 2026-07-16
-- **assumes:** Node ecosystem of themes/tools
-- **adapt:** fork your screening rubric over the schema.
-
 ### Reactive Resume
 Popular open-source resume builder — useful on the candidate-facing side and as a rendering layer for structured resume data.
 - **source:** https://github.com/AmruthPillai/Reactive-Resume
@@ -25,6 +17,18 @@ Popular open-source resume builder — useful on the candidate-facing side and a
 - **last_validated:** 2026-07-16
 - **assumes:** Docker/Node
 - **adapt:** fork templates.
+
+---
+
+## Tier C 🟡 — Useful, verify
+
+### JSON Resume
+The open resume-data standard — parse resumes INTO a schema an agent can filter/rank/render, instead of regexing PDFs.
+- **source:** https://github.com/jsonresume/resume-schema
+- **reputation:** **2,398★** · pushed 2026-06-12 · ⚠️ ARCHIVED
+- **last_validated:** 2026-07-16
+- **assumes:** Node ecosystem of themes/tools
+- **adapt:** fork your screening rubric over the schema.
 
 ---
 
