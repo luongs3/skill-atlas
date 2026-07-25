@@ -292,3 +292,11 @@ Installable GitHub library of 1,935+ agentic skills for Claude Code, Cursor, Cod
 - **last_validated:** 2026-07-09
 - **assumes:** Python toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### blader/humanizer
+Agent skill that removes signs of AI-generated writing from text
+- **source:** https://github.com/blader/humanizer
+- **reputation:** 30,865★ · pushed 2026-07-22 (auto-added 2026-07-25 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-07-25
+- **assumes:** Python toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.

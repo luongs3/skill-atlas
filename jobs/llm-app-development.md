@@ -87,3 +87,11 @@ A curated list of awesome skills, hooks, slash-commands, agent orchestrators, ap
 - **last_validated:** 2026-06-30
 - **assumes:** Python toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### Shubhamsaboo/awesome-llm-apps
+100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
+- **source:** https://github.com/Shubhamsaboo/awesome-llm-apps
+- **reputation:** 127,357★ · pushed 2026-07-23 (auto-added 2026-07-25 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-07-25
+- **assumes:** Python toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
