@@ -42,5 +42,17 @@ Curated index of security learning resources, tools, and CTF material.
 
 ---
 
+## Tier C 🟡 — Useful, verify
+
+### Kritt-ai/open-kritt
+Orchestrate AI agents to find real vulnerabilities in code.
+- **source:** https://github.com/Kritt-ai/open-kritt
+- **reputation:** 1,091★ · 201 forks · pushed 2026-08-03 · created 2026-07-20 · not archived · AGPL-3.0 (added 2026-08-03; young repo w/ 3 watchers vs 1,091★ — tier C until reviewed)
+- **last_validated:** 2026-08-03
+- **assumes:** JavaScript/Node toolchain; you supply LLM API keys and a codebase to scan
+- **adapt:** agentic SAST — read the orchestration prompts before trusting findings; LLM vuln-hunters produce false positives, so treat output as leads not verdicts.
+
+---
+
 *Scope note: these are listed for defensive hardening, secure coding, and authorized
 testing. Don't use them against systems you don't own or aren't explicitly cleared to test.*
