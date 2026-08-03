@@ -18,6 +18,10 @@ Popular open-source resume builder — useful on the candidate-facing side and a
 - **assumes:** Docker/Node
 - **adapt:** fork templates.
 
+---
+
+## Tier C 🟡 — Useful, verify
+
 ### JSON Resume
 The open resume-data standard — parse resumes INTO a schema an agent can filter/rank/render, instead of regexing PDFs.
 - **source:** https://github.com/jsonresume/resume-schema
