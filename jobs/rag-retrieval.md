@@ -37,3 +37,15 @@ Top open embedding + reranker models (BGE) with usage code. The retrieval-qualit
 - **last_validated:** 2026-06-19
 - **assumes:** Python + GPU helps
 - **adapt:** pick model by your language + latency budget.
+
+---
+
+## Tier C 🟡 — Useful, verify
+
+### infiniflow/ragflow
+RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a
+- **source:** https://github.com/infiniflow/ragflow
+- **reputation:** 86,737★ · pushed 2026-08-03 (auto-added 2026-08-04 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-04
+- **assumes:** Go toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.

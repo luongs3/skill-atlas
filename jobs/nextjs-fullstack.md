@@ -17,3 +17,15 @@ The React meta-framework — routing, SSR/SSG/ISR, server components/actions. Do
 - **last_validated:** 2026-06-19
 - **assumes:** Node + React
 - **adapt:** fork your route + data-fetching conventions; mind caching.
+
+---
+
+## Tier C 🟡 — Useful, verify
+
+### CopilotKit/CopilotKit
+The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol
+- **source:** https://github.com/CopilotKit/CopilotKit
+- **reputation:** 36,434★ · pushed 2026-08-04 (auto-added 2026-08-04 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-04
+- **assumes:** TypeScript toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.

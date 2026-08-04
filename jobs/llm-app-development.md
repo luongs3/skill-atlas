@@ -95,3 +95,11 @@ A curated list of awesome skills, hooks, slash-commands, agent orchestrators, ap
 - **last_validated:** 2026-07-25
 - **assumes:** Python toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### Mintplex-Labs/anything-llm
+Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
+- **source:** https://github.com/Mintplex-Labs/anything-llm
+- **reputation:** 64,299★ · pushed 2026-08-04 (auto-added 2026-08-04 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-04
+- **assumes:** JavaScript toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.

@@ -38,4 +38,14 @@ Chrome DevTools Protocol automation (scraping, PDFs, headless Chrome).
 
 ---
 
+## Tier C 🟡 — Useful, verify
+
+### browser-use/browser-use
+🌐 Make websites accessible for AI agents. Automate tasks online with ease.
+- **source:** https://github.com/browser-use/browser-use
+- **reputation:** 107,752★ · pushed 2026-08-03 (auto-added 2026-08-04 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-04
+- **assumes:** Python toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
 *The private skill is your app's auth + critical user flows encoded as reusable fixtures, so a new test starts from your real login, not a blank page. See [webapp-testing in mcp-and-agent-tools] and [javascript-testing](javascript-testing.md).*

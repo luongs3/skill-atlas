@@ -300,3 +300,27 @@ Agent skill that removes signs of AI-generated writing from text
 - **last_validated:** 2026-07-25
 - **assumes:** Python toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### microsoft/ai-agents-for-beginners
+18 Lessons to Get Started Building AI Agents
+- **source:** https://github.com/microsoft/ai-agents-for-beginners
+- **reputation:** 71,131★ · pushed 2026-07-29 (auto-added 2026-08-04 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-04
+- **assumes:** Jupyter Notebook toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### Panniantong/Agent-Reach
+Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero AP
+- **source:** https://github.com/Panniantong/Agent-Reach
+- **reputation:** 65,727★ · pushed 2026-07-25 (auto-added 2026-08-04 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-04
+- **assumes:** Python toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### headroomlabs-ai/headroom
+Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JS
+- **source:** https://github.com/headroomlabs-ai/headroom
+- **reputation:** 64,363★ · pushed 2026-08-04 (auto-added 2026-08-04 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-04
+- **assumes:** Python toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.

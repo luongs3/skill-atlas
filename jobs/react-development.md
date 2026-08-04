@@ -54,3 +54,11 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 - **last_validated:** 2026-06-21
 - **assumes:** Python toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### FlowiseAI/Flowise
+Build AI Agents, Visually
+- **source:** https://github.com/FlowiseAI/Flowise
+- **reputation:** 55,123★ · pushed 2026-08-03 (auto-added 2026-08-04 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-04
+- **assumes:** TypeScript toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
