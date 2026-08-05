@@ -97,3 +97,11 @@ Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science,
 - **last_validated:** 2026-06-19
 - **assumes:** Python toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### xai-org/grok-build
+SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
+- **source:** https://github.com/xai-org/grok-build
+- **reputation:** 24,131★ · pushed 2026-08-04 (auto-added 2026-08-05 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-05
+- **assumes:** Rust toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.

@@ -324,3 +324,27 @@ Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20
 - **last_validated:** 2026-08-04
 - **assumes:** Python toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### ComposioHQ/composio
+Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that 
+- **source:** https://github.com/ComposioHQ/composio
+- **reputation:** 29,534★ · pushed 2026-08-04 (auto-added 2026-08-05 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-05
+- **assumes:** TypeScript toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### agentscope-ai/agentscope
+Build and run agents you can see, understand and trust.
+- **source:** https://github.com/agentscope-ai/agentscope
+- **reputation:** 28,564★ · pushed 2026-08-04 (auto-added 2026-08-05 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-05
+- **assumes:** Python toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### google-labs-code/design.md
+A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a
+- **source:** https://github.com/google-labs-code/design.md
+- **reputation:** 26,954★ · pushed 2026-07-27 (auto-added 2026-08-05 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-05
+- **assumes:** TypeScript toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.

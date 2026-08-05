@@ -103,3 +103,27 @@ Stop renting your intelligence. Own it with AnythingLLM. Everything you need for
 - **last_validated:** 2026-08-04
 - **assumes:** JavaScript toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### esengine/DeepSeek-Reasonix
+DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
+- **source:** https://github.com/esengine/DeepSeek-Reasonix
+- **reputation:** 30,787★ · pushed 2026-08-05 (auto-added 2026-08-05 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-05
+- **assumes:** Go toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### charmbracelet/crush
+Glamourous agentic coding for all 💘
+- **source:** https://github.com/charmbracelet/crush
+- **reputation:** 27,074★ · pushed 2026-08-05 (auto-added 2026-08-05 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-05
+- **assumes:** Go toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### letta-ai/letta
+Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.
+- **source:** https://github.com/letta-ai/letta
+- **reputation:** 24,088★ · pushed 2026-08-01 (auto-added 2026-08-05 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-05
+- **assumes:** Python toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
