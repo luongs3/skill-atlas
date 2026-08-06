@@ -105,3 +105,11 @@ SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensib
 - **last_validated:** 2026-08-05
 - **assumes:** Rust toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### op7418/guizang-ppt-skill
+AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low
+- **source:** https://github.com/op7418/guizang-ppt-skill
+- **reputation:** 23,282★ · pushed 2026-07-22 (auto-added 2026-08-06 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-06
+- **assumes:** HTML toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.

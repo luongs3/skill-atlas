@@ -48,4 +48,12 @@ Chrome DevTools Protocol automation (scraping, PDFs, headless Chrome).
 - **assumes:** Python toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
 
+### h4ckf0r0day/obscura
+The headless browser for AI agents and web scraping
+- **source:** https://github.com/h4ckf0r0day/obscura
+- **reputation:** 20,008★ · pushed 2026-08-05 (auto-added 2026-08-06 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-06
+- **assumes:** Rust toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
 *The private skill is your app's auth + critical user flows encoded as reusable fixtures, so a new test starts from your real login, not a blank page. See [webapp-testing in mcp-and-agent-tools] and [javascript-testing](javascript-testing.md).*

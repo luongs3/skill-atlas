@@ -348,3 +348,35 @@ A format specification for describing a visual identity to coding agents. DESIGN
 - **last_validated:** 2026-08-05
 - **assumes:** TypeScript toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### modelcontextprotocol/python-sdk
+The official Python SDK for Model Context Protocol servers and clients
+- **source:** https://github.com/modelcontextprotocol/python-sdk
+- **reputation:** 23,899★ · pushed 2026-08-05 (auto-added 2026-08-06 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-06
+- **assumes:** Python toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### browser-use/video-use
+Edit videos with coding agents
+- **source:** https://github.com/browser-use/video-use
+- **reputation:** 19,733★ · pushed 2026-07-01 (auto-added 2026-08-06 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-06
+- **assumes:** Python toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### ayghri/i-have-adhd
+A skill to stop your coding agent from burying the answer. ADHD-friendly output.
+- **source:** https://github.com/ayghri/i-have-adhd
+- **reputation:** 17,290★ · pushed 2026-08-05 (auto-added 2026-08-06 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-06
+- **assumes:** Python toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### HKUDS/DeepCode
+"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
+- **source:** https://github.com/HKUDS/DeepCode
+- **reputation:** 16,198★ · pushed 2026-08-04 (auto-added 2026-08-06 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-06
+- **assumes:** Python toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.

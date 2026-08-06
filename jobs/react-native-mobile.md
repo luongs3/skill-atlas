@@ -48,4 +48,12 @@ Start with **Expo** unless you have a hard reason not to — the managed workflo
 - **assumes:** TypeScript toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
 
+### alchaincyf/huashu-design
+Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Ag
+- **source:** https://github.com/alchaincyf/huashu-design
+- **reputation:** 22,510★ · pushed 2026-07-27 (auto-added 2026-08-06 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-06
+- **assumes:** HTML toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
 *See [mobile-development](mobile-development.md) for the cross-framework picture and [react-development](react-development.md) for the React layer. Private skill = your app's nav + build pipeline.*
