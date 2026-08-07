@@ -57,3 +57,11 @@ RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine tha
 - **last_validated:** 2026-08-05
 - **assumes:** Python toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### ConardLi/garden-skills
+ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.
+- **source:** https://github.com/ConardLi/garden-skills
+- **reputation:** 10,111★ · pushed 2026-07-12 (auto-added 2026-08-07 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-07
+- **assumes:** CSS toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.

@@ -96,4 +96,12 @@ A curated collection of 1000+ agent skills from official dev teams and the commu
 - **assumes:** unknown toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
 
+### earthtojake/text-to-cad
+A library of agent skills for CAD, CAE and CAM
+- **source:** https://github.com/earthtojake/text-to-cad
+- **reputation:** 12,974★ · pushed 2026-08-06 (auto-added 2026-08-07 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-07
+- **assumes:** JavaScript toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
 *This is the fastest-churning category in the atlas. The durable private skill is your agent architecture (eval harness, guardrails, retrieval strategy), not the framework. See [llm-app-development](llm-app-development.md).*

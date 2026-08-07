@@ -135,3 +135,19 @@ Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code revi
 - **last_validated:** 2026-08-06
 - **assumes:** Go toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### microsoft/SkillOpt
+SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, valid
+- **source:** https://github.com/microsoft/SkillOpt
+- **reputation:** 15,706★ · pushed 2026-08-06 (auto-added 2026-08-07 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-07
+- **assumes:** Python toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### The-Pocket/PocketFlow
+Pocket Flow: 100-line LLM framework. Let Agents build Agents!
+- **source:** https://github.com/The-Pocket/PocketFlow
+- **reputation:** 11,086★ · pushed 2026-07-26 (auto-added 2026-08-07 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-07
+- **assumes:** Python toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.

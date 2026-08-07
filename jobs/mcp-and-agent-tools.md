@@ -380,3 +380,11 @@ A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 - **last_validated:** 2026-08-06
 - **assumes:** Python toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### XiaomiMiMo/MiMo-Code
+MiMo Code: Where Models and Agents Co-Evolve
+- **source:** https://github.com/XiaomiMiMo/MiMo-Code
+- **reputation:** 12,667★ · pushed 2026-08-06 (auto-added 2026-08-07 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-07
+- **assumes:** TypeScript toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.

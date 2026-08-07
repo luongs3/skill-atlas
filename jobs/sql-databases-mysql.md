@@ -40,3 +40,15 @@ only after you've verified it against your MySQL major version.*
 *Substitution-resistant private skill: your schema, index strategy, and the engine choice
 itself — when SQLite's single-writer model is fine vs when you need MySQL's concurrency. An
 LLM writes SQL fine; it doesn't know your data volume or write-contention reality.*
+
+---
+
+## Tier C 🟡 — Useful, verify
+
+### t8y2/dbx
+20 MB lightweight cross-platform database client for 70+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server,
+- **source:** https://github.com/t8y2/dbx
+- **reputation:** 13,518★ · pushed 2026-08-07 (auto-added 2026-08-07 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-07
+- **assumes:** Rust toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.

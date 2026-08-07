@@ -38,4 +38,14 @@ Use **semantic-release** for a single package where you want a fully hands-off p
 
 ---
 
+## Tier C 🟡 — Useful, verify
+
+### lsdefine/GenericAgent
+Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption
+- **source:** https://github.com/lsdefine/GenericAgent
+- **reputation:** 13,678★ · pushed 2026-08-07 (auto-added 2026-08-07 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-07
+- **assumes:** Python toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
 *See [cicd-pipelines](cicd-pipelines.md). Private skill = your release flow + versioning policy.*
