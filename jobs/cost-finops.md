@@ -27,3 +27,15 @@ CNCF Kubernetes cost monitoring — per-namespace/workload allocation. The vendo
 - **last_validated:** 2026-06-19
 - **assumes:** a cluster
 - **adapt:** fork your allocation queries + showback.
+
+---
+
+## Tier C 🟡 — Useful, verify
+
+### getagentseal/codeburn
+Free, local tool to track AI coding token usage and cost across 31 tools and agents (Claude Code, Cursor, Codex, Gemini and more), by model,
+- **source:** https://github.com/getagentseal/codeburn
+- **reputation:** 9,193★ · pushed 2026-08-04 (auto-added 2026-08-08 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-08
+- **assumes:** TypeScript toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.

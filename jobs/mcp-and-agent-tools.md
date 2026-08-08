@@ -388,3 +388,19 @@ MiMo Code: Where Models and Agents Co-Evolve
 - **last_validated:** 2026-08-07
 - **assumes:** TypeScript toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### cobusgreyling/loop-engineering
+Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (insp
+- **source:** https://github.com/cobusgreyling/loop-engineering
+- **reputation:** 9,956★ · pushed 2026-08-07 (auto-added 2026-08-08 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-08
+- **assumes:** JavaScript toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### EvoMap/evolver
+The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai
+- **source:** https://github.com/EvoMap/evolver
+- **reputation:** 8,949★ · pushed 2026-07-27 (auto-added 2026-08-08 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-08
+- **assumes:** JavaScript toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.

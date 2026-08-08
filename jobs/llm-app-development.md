@@ -151,3 +151,19 @@ Pocket Flow: 100-line LLM framework. Let Agents build Agents!
 - **last_validated:** 2026-08-07
 - **assumes:** Python toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### EKKOLearnAI/hermes-studio
+Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics
+- **source:** https://github.com/EKKOLearnAI/hermes-studio
+- **reputation:** 9,844★ · pushed 2026-08-08 (auto-added 2026-08-08 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-08
+- **assumes:** TypeScript toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### omnigent-ai/omnigent
+Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harness
+- **source:** https://github.com/omnigent-ai/omnigent
+- **reputation:** 8,302★ · pushed 2026-08-08 (auto-added 2026-08-08 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-08
+- **assumes:** Python toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
