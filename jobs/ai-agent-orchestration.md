@@ -104,4 +104,12 @@ A library of agent skills for CAD, CAE and CAM
 - **assumes:** JavaScript toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
 
+### PrimeIntellect-ai/prime-agent
+A self-improving RLM agent for coding workflows and long-running autonomous tasks.
+- **source:** https://github.com/PrimeIntellect-ai/prime-agent
+- **reputation:** 8,965★ · pushed 2026-08-08 (auto-added 2026-08-09 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-09
+- **assumes:** TypeScript toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
 *This is the fastest-churning category in the atlas. The durable private skill is your agent architecture (eval harness, guardrails, retrieval strategy), not the framework. See [llm-app-development](llm-app-development.md).*

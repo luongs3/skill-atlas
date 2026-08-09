@@ -404,3 +404,51 @@ The GEP-powered self-evolving engine for AI agents. Auditable evolution with Gen
 - **last_validated:** 2026-08-08
 - **assumes:** JavaScript toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### siyuan-note/siyuan
+An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
+- **source:** https://github.com/siyuan-note/siyuan
+- **reputation:** 45,677★ · pushed 2026-08-08 (auto-added 2026-08-09 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-09
+- **assumes:** TypeScript toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### trycompai/crm
+Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
+- **source:** https://github.com/trycompai/crm
+- **reputation:** 7,790★ · pushed 2026-08-08 (auto-added 2026-08-09 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-09
+- **assumes:** TypeScript toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### ifixai-ai/iFixAi
+Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the age
+- **source:** https://github.com/ifixai-ai/iFixAi
+- **reputation:** 7,366★ · pushed 2026-08-07 (auto-added 2026-08-09 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-09
+- **assumes:** Python toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### strands-agents/harness-sdk
+Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.
+- **source:** https://github.com/strands-agents/harness-sdk
+- **reputation:** 6,844★ · pushed 2026-08-07 (auto-added 2026-08-09 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-09
+- **assumes:** Python toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### kangarooking/cangjie-skill
+把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills
+- **source:** https://github.com/kangarooking/cangjie-skill
+- **reputation:** 6,664★ · pushed 2026-08-07 (auto-added 2026-08-09 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-09
+- **assumes:** Python toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### opensquilla/opensquilla
+OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density
+- **source:** https://github.com/opensquilla/opensquilla
+- **reputation:** 6,584★ · pushed 2026-08-08 (auto-added 2026-08-09 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-09
+- **assumes:** Python toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.

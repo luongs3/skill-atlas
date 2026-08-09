@@ -35,3 +35,11 @@ Cognee is the open-source AI memory platform for agents. Give your AI agents per
 - **last_validated:** 2026-06-25
 - **assumes:** Python toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### nexu-io/html-anything
+✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / twe
+- **source:** https://github.com/nexu-io/html-anything
+- **reputation:** 8,157★ · pushed 2026-07-28 (auto-added 2026-08-09 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-09
+- **assumes:** HTML toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
