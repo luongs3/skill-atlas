@@ -42,4 +42,14 @@ Build from the **official engine + docs** as the source of truth — the docs co
 
 ---
 
+## Tier C 🟡 — Useful, verify
+
+### anysearch-ai/anysearch-skill
+Unified real-time search engine skill for AI agents. Supports general web search, vertical domain search, parallel batch search, and full-pa
+- **source:** https://github.com/anysearch-ai/anysearch-skill
+- **reputation:** 5,278★ · pushed 2026-08-04 (auto-added 2026-08-10 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-10
+- **assumes:** Python toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
 *An LLM writes GDScript fine, but doesn't know your game's architecture (state machines, scene tree, signals). Encode that in a private skill.*

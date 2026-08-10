@@ -452,3 +452,27 @@ OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence d
 - **last_validated:** 2026-08-09
 - **assumes:** Python toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### KunAgent/Kun
+Local-first AI agent workspace for coding, writing, design, research, and automation — one runtime for desktop GUI and TUI.
+- **source:** https://github.com/KunAgent/Kun
+- **reputation:** 6,034★ · pushed 2026-08-07 (auto-added 2026-08-10 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-10
+- **assumes:** TypeScript toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### WenyuChiou/awesome-agentic-ai-zh
+A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ curated resources and ha
+- **source:** https://github.com/WenyuChiou/awesome-agentic-ai-zh
+- **reputation:** 5,130★ · pushed 2026-08-05 (auto-added 2026-08-10 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-10
+- **assumes:** Python toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### OpenSenseNova/SenseNova-Skills
+Modular SenseNova skills for building AI-powered office assistants and productivity workflows
+- **source:** https://github.com/OpenSenseNova/SenseNova-Skills
+- **reputation:** 4,947★ · pushed 2026-07-28 (auto-added 2026-08-10 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-10
+- **assumes:** JavaScript toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.

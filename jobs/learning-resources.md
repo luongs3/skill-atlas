@@ -43,3 +43,15 @@ doing.
 - **last_validated:** 2026-06-03
 - **assumes:** nothing
 - **adapt:** pick a project matching what you want to learn; confirm its tutorial link is live first.
+
+---
+
+## Tier C 🟡 — Useful, verify
+
+### datawhalechina/Agent-Learning-Hub
+AI Agent 学习路线与资料库收集
+- **source:** https://github.com/datawhalechina/Agent-Learning-Hub
+- **reputation:** 6,483★ · pushed 2026-07-19 (auto-added 2026-08-10 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-10
+- **assumes:** HTML toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.

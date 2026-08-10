@@ -167,3 +167,27 @@ Omnigent is an open-source AI agent framework and meta-harness: orchestrate Clau
 - **last_validated:** 2026-08-08
 - **assumes:** Python toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### jeinlee1991/chinese-llm-benchmark
+非线智能 NoneLinear - ReLE评测：中文AI大模型能力评测（持续更新）：目前已囊括374个大模型，覆盖chatgpt、gpt-5.4、谷歌gemini-3.1-pro、Claude-4.6、文心ERNIE-X1.1、ERNIE-5.0、qwen3.6-max、qwe
+- **source:** https://github.com/jeinlee1991/chinese-llm-benchmark
+- **reputation:** 6,361★ · pushed 2026-08-04 (auto-added 2026-08-10 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-10
+- **assumes:** unknown toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### Mai-with-u/MaiBot
+MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style of a real human. Sh
+- **source:** https://github.com/Mai-with-u/MaiBot
+- **reputation:** 5,689★ · pushed 2026-08-09 (auto-added 2026-08-10 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-10
+- **assumes:** Python toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### areal-project/AReaL
+The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.
+- **source:** https://github.com/areal-project/AReaL
+- **reputation:** 5,652★ · pushed 2026-08-07 (auto-added 2026-08-10 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-10
+- **assumes:** Python toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
