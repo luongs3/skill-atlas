@@ -191,3 +191,43 @@ The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.
 - **last_validated:** 2026-08-10
 - **assumes:** Python toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### pguso/ai-agents-from-scratch
+Demystify AI agents by building them yourself. Local LLMs, no black boxes, real understanding of function calling, memory, and ReAct pattern
+- **source:** https://github.com/pguso/ai-agents-from-scratch
+- **reputation:** 4,511★ · pushed 2026-07-24 (auto-added 2026-08-11 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-11
+- **assumes:** JavaScript toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### gptme/gptme
+Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own persistent autonomous
+- **source:** https://github.com/gptme/gptme
+- **reputation:** 4,381★ · pushed 2026-08-10 (auto-added 2026-08-11 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-11
+- **assumes:** Python toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### langroid/langroid
+Harness LLMs with Multi-Agent Programming
+- **source:** https://github.com/langroid/langroid
+- **reputation:** 4,093★ · pushed 2026-07-29 (auto-added 2026-08-11 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-11
+- **assumes:** Python toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### EverMind-AI/Raven
+The memory-first, self-improving agent harness built on EverOS, with MiroThinker-powered deep research and reasoning.
+- **source:** https://github.com/EverMind-AI/Raven
+- **reputation:** 3,470★ · pushed 2026-08-10 (auto-added 2026-08-11 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-11
+- **assumes:** Python toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### UditAkhourii/adhd
+ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts 
+- **source:** https://github.com/UditAkhourii/adhd
+- **reputation:** 3,451★ · pushed 2026-08-05 (auto-added 2026-08-11 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-11
+- **assumes:** TypeScript toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.

@@ -56,3 +56,11 @@ Orchestrate AI agents to find real vulnerabilities in code.
 
 *Scope note: these are listed for defensive hardening, secure coding, and authorized
 testing. Don't use them against systems you don't own or aren't explicitly cleared to test.*
+
+### vercel-labs/deepsec
+Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents
+- **source:** https://github.com/vercel-labs/deepsec
+- **reputation:** 6,636★ · pushed 2026-08-09 (auto-added 2026-08-11 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-11
+- **assumes:** TypeScript toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.

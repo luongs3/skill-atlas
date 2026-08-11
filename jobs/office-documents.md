@@ -54,3 +54,23 @@ Both Tier A, same repo, validated 2026-06-02.
 
 *Why this job has no Tier-C noise: the format skills are a solved problem with an official
 source. Don't load a random community "pdf helper" when Anthropic ships one.*
+
+---
+
+## Tier C 🟡 — Useful, verify
+
+### chuspeeism/dashi-ppt-skill
+An AI-agent skill that generates browser-editable presentations from multiple visual themes, exportable to HTML, PDF, and PPTX.
+- **source:** https://github.com/chuspeeism/dashi-ppt-skill
+- **reputation:** 4,964★ · pushed 2026-07-30 (auto-added 2026-08-11 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-11
+- **assumes:** JavaScript toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### ningzimu/codex-ppt-skill
+GPT-Image-2 PPT Generator Skill for Creating Image-Based PowerPoint Presentations in Codex and Other Skill-Compatible Agents
+- **source:** https://github.com/ningzimu/codex-ppt-skill
+- **reputation:** 4,722★ · pushed 2026-07-30 (auto-added 2026-08-11 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-11
+- **assumes:** Python toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
