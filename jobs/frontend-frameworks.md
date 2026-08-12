@@ -51,3 +51,15 @@ If you just need a UI for a tool: **React + Tailwind** (or Next.js if you need S
 is the safe, best-documented default — and it's what Anthropic's official `frontend-design`
 skill ([see web-frontend](web-frontend.md)) generates well. Don't agonize over the framework
 war for an internal tool; pick the one with the most training data (React) and move on.
+
+---
+
+## Tier C 🟡 — Useful, verify
+
+### thedaviddias/Front-End-Checklist
+🗂 The essential checklist for modern web development, for humans and AI agents
+- **source:** https://github.com/thedaviddias/Front-End-Checklist
+- **reputation:** 73,502★ · pushed 2026-08-11 (auto-added 2026-08-12 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-12
+- **assumes:** MDX toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.

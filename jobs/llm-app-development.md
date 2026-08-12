@@ -231,3 +231,27 @@ ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the C
 - **last_validated:** 2026-08-11
 - **assumes:** TypeScript toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### HolmesGPT/holmesgpt
+SRE Agent - CNCF Sandbox Project
+- **source:** https://github.com/HolmesGPT/holmesgpt
+- **reputation:** 3,038★ · pushed 2026-08-11 (auto-added 2026-08-12 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-12
+- **assumes:** Python toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### cosmicstack-labs/mercury-agent
+Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.
+- **source:** https://github.com/cosmicstack-labs/mercury-agent
+- **reputation:** 2,996★ · pushed 2026-08-11 (auto-added 2026-08-12 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-12
+- **assumes:** TypeScript toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### simonlin1212/TradingAgents-astock
+A股多Agent投研框架 — 适配A股数据源(龙虎榜/游资/解禁等)，7位分析师基于A股规则的辩论决策，基于TradingAgents深度改造，适配大A。A-share multi-agent investment research framework — 7 AI analys
+- **source:** https://github.com/simonlin1212/TradingAgents-astock
+- **reputation:** 2,802★ · pushed 2026-08-09 (auto-added 2026-08-12 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-12
+- **assumes:** Python toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.

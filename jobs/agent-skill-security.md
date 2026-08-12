@@ -72,4 +72,14 @@ The honest read: SkillSpector is genuinely useful for *executable* skills (hooks
 
 ---
 
+## Tier C 🟡 — Useful, verify
+
+### elder-plinius/T3MP3ST
+autonomous red teaming platform; multi-agent offensive-security meta-harness
+- **source:** https://github.com/elder-plinius/T3MP3ST
+- **reputation:** 5,536★ · pushed 2026-08-02 (auto-added 2026-08-12 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-12
+- **assumes:** TypeScript toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
 *Substitution-resistant private layer: your **install policy** — the risk-score threshold you block at, the categories you treat as hard-fail vs advisory, and the allowlist of skills you've already reviewed. The scanner produces a number; the policy that turns that number into install/block is yours. Note SkillSpector + mcp-scan are days-old (2026-06) and fast-moving — a scan is a strong signal, not a safety guarantee; a clean scan ≠ trusted, and a flagged skill deserves a human read, not auto-rejection.*

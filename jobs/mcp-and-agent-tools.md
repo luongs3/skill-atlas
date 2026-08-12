@@ -476,3 +476,27 @@ Modular SenseNova skills for building AI-powered office assistants and productiv
 - **last_validated:** 2026-08-10
 - **assumes:** JavaScript toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### MoonshotAI/kimi-code
+Kimi Code CLI  —  The Starting Point for Next-Gen Agents
+- **source:** https://github.com/MoonshotAI/kimi-code
+- **reputation:** 6,380★ · pushed 2026-08-11 (auto-added 2026-08-12 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-12
+- **assumes:** TypeScript toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### yilewang/llm-for-zotero
+An open-sourced research agent system deeply rooted in your Zotero library.
+- **source:** https://github.com/yilewang/llm-for-zotero
+- **reputation:** 2,612★ · pushed 2026-08-11 (auto-added 2026-08-12 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-12
+- **assumes:** TypeScript toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### aws/agent-toolkit-for-aws
+Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS
+- **source:** https://github.com/aws/agent-toolkit-for-aws
+- **reputation:** 2,305★ · pushed 2026-08-11 (auto-added 2026-08-12 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-12
+- **assumes:** Python toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
