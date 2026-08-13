@@ -113,3 +113,11 @@ AI-agent Skill for generating polished HTML slide decks: editorial magazine and 
 - **last_validated:** 2026-08-06
 - **assumes:** HTML toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### wuyoscar/GPT-Image2-Skill
+GPT Image 2 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing
+- **source:** https://github.com/wuyoscar/GPT-Image2-Skill
+- **reputation:** 4,448★ · pushed 2026-08-10 (auto-added 2026-08-13 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-13
+- **assumes:** Python toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.

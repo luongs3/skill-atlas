@@ -500,3 +500,59 @@ Official, AWS-supported MCP servers, skills, and plugins to help AI agents build
 - **last_validated:** 2026-08-12
 - **assumes:** Python toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### yc-software/qm
+Multiplayer agent harness for work. https://qm.ycombinator.com
+- **source:** https://github.com/yc-software/qm
+- **reputation:** 13,238★ · pushed 2026-08-12 (auto-added 2026-08-13 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-13
+- **assumes:** TypeScript toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### anysearch-ai/anysearch-mcp-server
+Unified real-time search MCP server supporting general web search, vertical domain search, parallel batch search, and full-page URL content 
+- **source:** https://github.com/anysearch-ai/anysearch-mcp-server
+- **reputation:** 1,642★ · pushed 2026-07-10 (auto-added 2026-08-13 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-13
+- **assumes:** unknown toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### OpenOSINT/OpenOSINT
+AI-powered OSINT agent with interactive REPL, MCP server, and CLI. 19 tools. Works with Claude, GPT-4, or local models. For authorized secur
+- **source:** https://github.com/OpenOSINT/OpenOSINT
+- **reputation:** 1,396★ · pushed 2026-08-11 (auto-added 2026-08-13 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-13
+- **assumes:** Python toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### nduckmink/arkon
+Arkon: Enterprise AI Knowledge Hub & MCP Server. Self-hosted knowledge base for teams to manage RAG contexts, access policies, and AI skills
+- **source:** https://github.com/nduckmink/arkon
+- **reputation:** 1,209★ · pushed 2026-06-03 (auto-added 2026-08-13 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-13
+- **assumes:** Python toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### dondai1234/master-fetch
+MCP server for web fetching with Cloudflare bypass, Trafilatura extraction, and smart routing. Free, self-hosted, no API keys.
+- **source:** https://github.com/dondai1234/master-fetch
+- **reputation:** 805★ · pushed 2026-07-24 (auto-added 2026-08-13 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-13
+- **assumes:** Python toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### alash3al/stash
+Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, si
+- **source:** https://github.com/alash3al/stash
+- **reputation:** 762★ · pushed 2026-06-14 (auto-added 2026-08-13 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-13
+- **assumes:** Go toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### Storybloq/storybloq
+Cross-session context for Claude Code. CLI + MCP server + /story skill that tracks tickets, issues, handovers, and roadmap in a .story/ dire
+- **source:** https://github.com/Storybloq/storybloq
+- **reputation:** 689★ · pushed 2026-08-09 (auto-added 2026-08-13 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-13
+- **assumes:** TypeScript toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
