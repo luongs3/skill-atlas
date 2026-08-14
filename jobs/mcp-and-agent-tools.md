@@ -556,3 +556,59 @@ Cross-session context for Claude Code. CLI + MCP server + /story skill that trac
 - **last_validated:** 2026-08-13
 - **assumes:** TypeScript toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### BuilderIO/skills
+Skills for coding agents
+- **source:** https://github.com/BuilderIO/skills
+- **reputation:** 3,975★ · pushed 2026-08-13 (auto-added 2026-08-14 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-14
+- **assumes:** JavaScript toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### yurineko73/Godot-MCP-Native
+一款支持godot开源引擎的的mcp插件，支持常见godot引擎操作，使用Godot原生实现MCPServer，无需安装依赖，开箱即用，支持多种AI工具调用。An MCP plugin that supports the open-source Godot engine, ena
+- **source:** https://github.com/yurineko73/Godot-MCP-Native
+- **reputation:** 688★ · pushed 2026-08-03 (auto-added 2026-08-14 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-14
+- **assumes:** GDScript toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### sandiiarov/skill-creator
+Turn any MCP server, OpenAPI spec, or GraphQL endpoint into a CLI at runtime.
+- **source:** https://github.com/sandiiarov/skill-creator
+- **reputation:** 670★ · pushed 2026-06-03 (auto-added 2026-08-14 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-14
+- **assumes:** TypeScript toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### riponcm/projectmem
+Local-first AI coding memory for AI agents. Records issues, attempts, fixes and decisions, then warns your agent before it repeats an approa
+- **source:** https://github.com/riponcm/projectmem
+- **reputation:** 656★ · pushed 2026-08-06 (auto-added 2026-08-14 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-14
+- **assumes:** Python toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### chubbyguan/chubbyskills
+把中文全渠道内容（抖音 / B站 / 小红书 / 公众号 / X / 播客）采集进个人知识库的 13 个 AI Skill：图文存图、视频转文字稿、字幕优先免 GPU，附带知识库 MCP server。 ｜ Ingest Chinese content into your per
+- **source:** https://github.com/chubbyguan/chubbyskills
+- **reputation:** 614★ · pushed 2026-06-30 (auto-added 2026-08-14 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-14
+- **assumes:** Python toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### ruvnet/metaharness
+🛠️ The meta-harness for AI agents — scaffold your own focused, branded agent harness with its own npx CLI, MCP server, memory, learning loop
+- **source:** https://github.com/ruvnet/metaharness
+- **reputation:** 579★ · pushed 2026-08-13 (auto-added 2026-08-14 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-14
+- **assumes:** TypeScript toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### sv-number/mcp-server
+MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. T
+- **source:** https://github.com/sv-number/mcp-server
+- **reputation:** 567★ · pushed 2026-08-10 (auto-added 2026-08-14 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-14
+- **assumes:** JavaScript toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
