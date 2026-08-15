@@ -612,3 +612,19 @@ MCP server for AI agents that need a phone number: order a private number in 200
 - **last_validated:** 2026-08-14
 - **assumes:** JavaScript toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### deepseek-ai/deepseek-harness
+DeepSeek Harness: Everything is a Plugin.
+- **source:** https://github.com/deepseek-ai/deepseek-harness
+- **reputation:** 96,120★ · pushed 2026-08-13 (auto-added 2026-08-15 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-15
+- **assumes:** TypeScript toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### awdr74100/figwright
+Free, two-way Figma MCP server. Turn designs into framework-aware code, and push code back to the canvas. Works with Claude Code, Cursor, Co
+- **source:** https://github.com/awdr74100/figwright
+- **reputation:** 507★ · pushed 2026-08-14 (auto-added 2026-08-15 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-15
+- **assumes:** TypeScript toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.

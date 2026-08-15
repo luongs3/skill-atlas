@@ -43,3 +43,11 @@ Cognee is the open-source AI memory platform for agents. Give your AI agents per
 - **last_validated:** 2026-08-09
 - **assumes:** HTML toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### jakubkrehel/skills
+A collection of agent skills that help you build a great interface.
+- **source:** https://github.com/jakubkrehel/skills
+- **reputation:** 3,777★ · pushed 2026-08-14 (auto-added 2026-08-15 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-15
+- **assumes:** Markdown toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
