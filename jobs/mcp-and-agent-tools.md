@@ -628,3 +628,11 @@ Free, two-way Figma MCP server. Turn designs into framework-aware code, and push
 - **last_validated:** 2026-08-15
 - **assumes:** TypeScript toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### NanoNets/Graft
+Turbocharge Claude Code, Cursor, Codex, Gemini & every coding agent: faster, cheaper, with contextual understanding specific to your codebas
+- **source:** https://github.com/NanoNets/Graft
+- **reputation:** 2,853★ · pushed 2026-08-13 (auto-added 2026-08-16 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-16
+- **assumes:** TypeScript toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
