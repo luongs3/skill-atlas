@@ -636,3 +636,11 @@ Turbocharge Claude Code, Cursor, Codex, Gemini & every coding agent: faster, che
 - **last_validated:** 2026-08-16
 - **assumes:** TypeScript toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### xiaobright/dsh-anchored-standard
+Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)
+- **source:** https://github.com/xiaobright/dsh-anchored-standard
+- **reputation:** 3,048★ · pushed 2026-08-16 (auto-added 2026-08-17 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-17
+- **assumes:** JavaScript toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
