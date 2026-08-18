@@ -644,3 +644,11 @@ Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard
 - **last_validated:** 2026-08-17
 - **assumes:** JavaScript toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### titanwings/colleague-skill
+将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶
+- **source:** https://github.com/titanwings/colleague-skill
+- **reputation:** 23,147★ · pushed 2026-08-13 (auto-added 2026-08-18 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-18
+- **assumes:** Python toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.

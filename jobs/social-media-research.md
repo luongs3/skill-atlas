@@ -35,3 +35,11 @@ actions.
   monitors, webhooks, and write actions behind explicit approval.
 - **adapt:** keep source packets with query, date range, collection time, post URLs or IDs,
   and sample size for every analysis run.
+
+### muxuuu/serenity-skill
+Serenity-inspired Agent Skill for supply-chain bottleneck stock research
+- **source:** https://github.com/muxuuu/serenity-skill
+- **reputation:** 3,799★ · pushed 2026-05-05 (auto-added 2026-08-18 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-18
+- **assumes:** Python toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
