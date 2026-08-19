@@ -35,3 +35,15 @@ Local webhook forwarding + event triggering — test payment flows without a pub
 - **last_validated:** 2026-06-19
 - **assumes:** a Stripe account
 - **adapt:** use to replay/trigger events in dev.
+
+---
+
+## Tier C 🟡 — Useful, verify
+
+### internet-court/internet-court-skill
+The trust layer for agent-to-agent commerce — natural-language mandates, ERC-7710 delegated permissions, x402 payments, escrow, and dispute 
+- **source:** https://github.com/internet-court/internet-court-skill
+- **reputation:** 3,996★ · pushed 2026-08-11 (auto-added 2026-08-19 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-19
+- **assumes:** TypeScript toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.

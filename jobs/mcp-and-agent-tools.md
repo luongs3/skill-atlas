@@ -652,3 +652,11 @@ Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard
 - **last_validated:** 2026-08-18
 - **assumes:** Python toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### slothflowlabs/duckle
+Open-source ETL/ELT you deploy on your own servers or cloud. Built on DuckDB: no-code/low-code visual pipelines or SQL, 385 components, dbt,
+- **source:** https://github.com/slothflowlabs/duckle
+- **reputation:** 1,156★ · pushed 2026-08-18 (auto-added 2026-08-19 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-19
+- **assumes:** Rust toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
