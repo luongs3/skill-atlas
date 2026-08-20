@@ -29,3 +29,11 @@ The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, an
 - **last_validated:** 2026-08-04
 - **assumes:** TypeScript toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### simonlin1212/a-stock-data
+A股全栈数据工具包 · 十一层架构 · 54端点 · 19数据源 · 零鉴权 | Full-stack China A-share data toolkit for AI agents — 11 layers, 54 endpoints, 19 sources, zero-aut
+- **source:** https://github.com/simonlin1212/a-stock-data
+- **reputation:** 8,913★ · pushed 2026-08-19 (auto-added 2026-08-20 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-20
+- **assumes:** unknown toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.

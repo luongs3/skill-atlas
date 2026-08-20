@@ -39,3 +39,11 @@ World's first open-source, agentic video production system. 12 pipelines, 52 too
 - **last_validated:** 2026-07-19
 - **assumes:** Python toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### nexu-io/html-video
+Programmatic video for coding agents — HTML to video on your laptop. Turn HTML, CSS & data into real MP4s with pluggable render engines, 21 
+- **source:** https://github.com/nexu-io/html-video
+- **reputation:** 4,387★ · pushed 2026-06-21 (auto-added 2026-08-20 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-20
+- **assumes:** HTML toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
