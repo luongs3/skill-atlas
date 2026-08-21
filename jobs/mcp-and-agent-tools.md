@@ -660,3 +660,11 @@ Open-source ETL/ELT you deploy on your own servers or cloud. Built on DuckDB: no
 - **last_validated:** 2026-08-19
 - **assumes:** Rust toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### davidondrej/skills
+access to david ondrej's personal agent skills
+- **source:** https://github.com/davidondrej/skills
+- **reputation:** 3,732★ · pushed 2026-08-20 (auto-added 2026-08-21 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-21
+- **assumes:** Python toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
