@@ -255,3 +255,11 @@ A股多Agent投研框架 — 适配A股数据源(龙虎榜/游资/解禁等)，7
 - **last_validated:** 2026-08-12
 - **assumes:** Python toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### truefoundry/trueforge
+The open-source agent harness - the runtime layer that turns an LLM into a working agent.
+- **source:** https://github.com/truefoundry/trueforge
+- **reputation:** 2,955★ · pushed 2026-08-21 (auto-added 2026-08-22 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-22
+- **assumes:** TypeScript toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.

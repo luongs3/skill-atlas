@@ -668,3 +668,19 @@ access to david ondrej's personal agent skills
 - **last_validated:** 2026-08-21
 - **assumes:** Python toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### JimLiu/baoyu-design
+Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as sel
+- **source:** https://github.com/JimLiu/baoyu-design
+- **reputation:** 3,527★ · pushed 2026-07-30 (auto-added 2026-08-22 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-22
+- **assumes:** JavaScript toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### s1dashu/ip-as-logo-skill
+A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.
+- **source:** https://github.com/s1dashu/ip-as-logo-skill
+- **reputation:** 3,491★ · pushed 2026-08-20 (auto-added 2026-08-22 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-22
+- **assumes:** unknown toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
