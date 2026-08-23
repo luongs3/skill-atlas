@@ -684,3 +684,11 @@ A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP
 - **last_validated:** 2026-08-22
 - **assumes:** unknown toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### cinderline/northcinder
+Open-source MCP server for comparing products and asking the buyer before purchase.
+- **source:** https://github.com/cinderline/northcinder
+- **reputation:** 1,205★ · pushed 2026-08-22 (auto-added 2026-08-23 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-23
+- **assumes:** JavaScript toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
