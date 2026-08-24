@@ -692,3 +692,19 @@ Open-source MCP server for comparing products and asking the buyer before purcha
 - **last_validated:** 2026-08-23
 - **assumes:** JavaScript toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### titanwings/distilly
+Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）.
+- **source:** https://github.com/titanwings/distilly
+- **reputation:** 23,861★ · pushed 2026-08-23 (auto-added 2026-08-24 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-24
+- **assumes:** Python toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### duty1g/x64dbg-mcp-server
+x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Conne
+- **source:** https://github.com/duty1g/x64dbg-mcp-server
+- **reputation:** 883★ · pushed 2026-08-23 (auto-added 2026-08-24 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-24
+- **assumes:** Zig toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
