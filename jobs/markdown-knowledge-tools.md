@@ -51,3 +51,11 @@ A collection of agent skills that help you build a great interface.
 - **last_validated:** 2026-08-15
 - **assumes:** Markdown toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### isjiamu/gzh-design-skill
+把 Markdown 一键排成可直接粘进公众号编辑器的精致 HTML —— 6 套精选主题 + 主题生成器 + 双关卡校验。An AI-agent skill that turns Markdown into paste-ready WeChat article HTML.
+- **source:** https://github.com/isjiamu/gzh-design-skill
+- **reputation:** 3,285★ · pushed 2026-07-08 (auto-added 2026-08-25 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-25
+- **assumes:** HTML toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
