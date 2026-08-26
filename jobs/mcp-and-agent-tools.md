@@ -708,3 +708,11 @@ x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg tha
 - **last_validated:** 2026-08-24
 - **assumes:** Zig toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### trailhq/Graft
+Turbocharge Claude Code, Cursor, Codex, Gemini & every coding agent: faster, cheaper, with contextual understanding specific to your codebas
+- **source:** https://github.com/trailhq/Graft
+- **reputation:** 4,890★ · pushed 2026-08-25 (auto-added 2026-08-26 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-26
+- **assumes:** TypeScript toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.

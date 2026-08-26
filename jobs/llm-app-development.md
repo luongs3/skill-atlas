@@ -263,3 +263,11 @@ The open-source agent harness - the runtime layer that turns an LLM into a worki
 - **last_validated:** 2026-08-22
 - **assumes:** TypeScript toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### apache/maka
+Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and terminatio
+- **source:** https://github.com/apache/maka
+- **reputation:** 3,341★ · pushed 2026-08-26 (auto-added 2026-08-26 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-26
+- **assumes:** TypeScript toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
