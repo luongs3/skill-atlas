@@ -716,3 +716,11 @@ Turbocharge Claude Code, Cursor, Codex, Gemini & every coding agent: faster, che
 - **last_validated:** 2026-08-26
 - **assumes:** TypeScript toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### akitaonrails/ai-memory
+Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
+- **source:** https://github.com/akitaonrails/ai-memory
+- **reputation:** 4,995★ · pushed 2026-08-27 (auto-added 2026-08-28 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-28
+- **assumes:** Rust toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
