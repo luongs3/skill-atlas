@@ -64,3 +64,11 @@ Deepsec is a security harness for finding vulnerabilities in your codebase power
 - **last_validated:** 2026-08-11
 - **assumes:** TypeScript toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### cloudflare/security-audit-skill
+A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
+- **source:** https://github.com/cloudflare/security-audit-skill
+- **reputation:** 3,150★ · pushed 2026-07-06 (auto-added 2026-08-29 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-08-29
+- **assumes:** JavaScript toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
