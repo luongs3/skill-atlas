@@ -38,4 +38,14 @@ Use **tldraw** when you're building a product feature on a supported, maintained
 
 ---
 
+## Tier C 🟡 — Useful, verify
+
+### basketikun/infinite-canvas
+面向 AI 创作的开源无限画布工作台，集成 AI 生图、参考图编辑、视频生成、Agent 智能助手、画布编排、对话创作、提示词库与素材管理等能力，支持可视化创作流程与多 Agent 协同工作。兼容 OpenAI 接口生态，支持 chatgpt2api、grok2api、flow2
+- **source:** https://github.com/basketikun/infinite-canvas
+- **reputation:** 5,861★ · pushed 2026-08-27 (auto-added 2026-09-01 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-09-01
+- **assumes:** TypeScript toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
 *See [frontend-frameworks](frontend-frameworks.md). Niche but high-value when you need it. Private skill = your custom canvas shapes/tools.*
