@@ -724,3 +724,11 @@ Solution for long term memory for agent coding CLIs and to facilitate handoff be
 - **last_validated:** 2026-08-28
 - **assumes:** Rust toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### wanghuan9/skilldock
+SkillDock is an AI skill manager and skill management desktop app for Claude Code, Cursor, Codex, Windsurf, Gemini CLI, and other AI coding 
+- **source:** https://github.com/wanghuan9/skilldock
+- **reputation:** 500★ · pushed 2026-09-01 (auto-added 2026-09-02 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-09-02
+- **assumes:** Rust toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.

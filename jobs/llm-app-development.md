@@ -271,3 +271,11 @@ Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, to
 - **last_validated:** 2026-08-26
 - **assumes:** TypeScript toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### SenteLabsAI/OpenExecutive
+AI-powered virtual executive team — a single coherent executive persona backed by 8 specialist Claude agents (FastAPI + Next.js).
+- **source:** https://github.com/SenteLabsAI/OpenExecutive
+- **reputation:** 3,385★ · pushed 2026-09-02 (auto-added 2026-09-02 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-09-02
+- **assumes:** Python toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.

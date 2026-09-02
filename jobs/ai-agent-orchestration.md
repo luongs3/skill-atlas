@@ -112,4 +112,12 @@ A self-improving RLM agent for coding workflows and long-running autonomous task
 - **assumes:** TypeScript toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
 
+### chaitanyagiri/munder-difflin
+Run a whole office of AI coding agents on your own machine. A local multi-agent harness that works with your existing Claude Code, Codex and
+- **source:** https://github.com/chaitanyagiri/munder-difflin
+- **reputation:** 6,037★ · pushed 2026-09-02 (auto-added 2026-09-02 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-09-02
+- **assumes:** TypeScript toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
 *This is the fastest-churning category in the atlas. The durable private skill is your agent architecture (eval harness, guardrails, retrieval strategy), not the framework. See [llm-app-development](llm-app-development.md).*
