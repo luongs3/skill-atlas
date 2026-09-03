@@ -38,4 +38,14 @@ Default to **Plotly** for anything interactive in Python notebooks or dashboards
 
 ---
 
+## Tier C 🟡 — Useful, verify
+
+### larashero3-dotcom/lieflat-charts
+Data visualization Skill for AI Agents, turning data into polished, interactive HTML charts. 面向 AI Agents 的数据可视化 Skill，将数据快速生成精致、可交互的 HTML 图
+- **source:** https://github.com/larashero3-dotcom/lieflat-charts
+- **reputation:** 3,751★ · pushed 2026-08-19 (auto-added 2026-09-03 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-09-03
+- **assumes:** HTML toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
 *See [data-analysis](data-analysis.md). For most charts an LLM + a high-level lib suffices; D3 is for the bespoke 5%. Private skill = your house chart style.*

@@ -732,3 +732,11 @@ SkillDock is an AI skill manager and skill management desktop app for Claude Cod
 - **last_validated:** 2026-09-02
 - **assumes:** Rust toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### uvwt/agentdock
+Secure MCP runtime for AI agents to operate local machines, servers, and containers with multi-device orchestration.
+- **source:** https://github.com/uvwt/agentdock
+- **reputation:** 512★ · pushed 2026-09-02 (auto-added 2026-09-03 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-09-03
+- **assumes:** Go toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
