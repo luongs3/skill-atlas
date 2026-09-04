@@ -740,3 +740,19 @@ Secure MCP runtime for AI agents to operate local machines, servers, and contain
 - **last_validated:** 2026-09-03
 - **assumes:** Go toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### fuxicodex/Fuxi
+FuXi is a fast, self-contained AI coding agent that lives in your terminal — edit code, run commands, and drive tools, with cost-aware routi
+- **source:** https://github.com/fuxicodex/Fuxi
+- **reputation:** 3,311★ · pushed 2026-08-23 (auto-added 2026-09-04 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-09-04
+- **assumes:** Python toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### 2akouwu/reverify
+Anti-hallucination for AI agents that read binaries. The model proposes, deterministic tools decide: every claim is VERIFIED or REFUTED agai
+- **source:** https://github.com/2akouwu/reverify
+- **reputation:** 785★ · pushed 2026-09-03 (auto-added 2026-09-04 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-09-04
+- **assumes:** Python toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
