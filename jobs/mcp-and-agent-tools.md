@@ -772,3 +772,11 @@ Source control for agents. Use multiple coding agents, track their changes and q
 - **last_validated:** 2026-09-05
 - **assumes:** Rust toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### Env-Kit/envkit-releases
+EnvKit — free local development environment for Windows & macOS: nginx/Apache, multiple PHP versions, MySQL/MariaDB,   PostgreSQL, Redis, Mo
+- **source:** https://github.com/Env-Kit/envkit-releases
+- **reputation:** 501★ · pushed 2026-09-04 (auto-added 2026-09-06 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-09-06
+- **assumes:** Shell toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
