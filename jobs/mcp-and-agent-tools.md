@@ -780,3 +780,11 @@ EnvKit — free local development environment for Windows & macOS: nginx/Apache,
 - **last_validated:** 2026-09-06
 - **assumes:** Shell toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### redhat-et/ripwire
+The ripgrep of AI context: a zero-dependency C++23 CLI + MCP server giving coding agents a ranked, deterministic map of any repo, blast radi
+- **source:** https://github.com/redhat-et/ripwire
+- **reputation:** 1,376★ · pushed 2026-09-08 (auto-added 2026-09-08 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-09-08
+- **assumes:** C++ toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
