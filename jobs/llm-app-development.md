@@ -279,3 +279,11 @@ AI-powered virtual executive team — a single coherent executive persona backed
 - **last_validated:** 2026-09-02
 - **assumes:** Python toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### Leonxlnx/unlazy
+Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget 
+- **source:** https://github.com/Leonxlnx/unlazy
+- **reputation:** 3,181★ · pushed 2026-09-03 (auto-added 2026-09-09 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-09-09
+- **assumes:** JavaScript toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.

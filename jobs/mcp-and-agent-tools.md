@@ -788,3 +788,27 @@ The ripgrep of AI context: a zero-dependency C++23 CLI + MCP server giving codin
 - **last_validated:** 2026-09-08
 - **assumes:** C++ toolchain — verify before trusting
 - **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### oomol-lab/open-connector
+Open-source auth gateway connecting 1400+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
+- **source:** https://github.com/oomol-lab/open-connector
+- **reputation:** 5,638★ · pushed 2026-09-08 (auto-added 2026-09-09 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-09-09
+- **assumes:** TypeScript toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### Waishnav/devspace
+Minimal Coding Agent Harness on MCP for ChatGPT, Claude, Hermes, Grok Bot, OpenClaw
+- **source:** https://github.com/Waishnav/devspace
+- **reputation:** 4,576★ · pushed 2026-09-08 (auto-added 2026-09-09 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-09-09
+- **assumes:** TypeScript toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
+
+### LING71671/open-reverselab
+Open-source AI reverse-engineering agent platform and MCP server for Ghidra, Frida, x64dbg and Rizin — automated PE/APK/binary analysis, CTF
+- **source:** https://github.com/LING71671/open-reverselab
+- **reputation:** 1,102★ · pushed 2026-09-08 (auto-added 2026-09-09 by dev-scout; tier C until reviewed)
+- **last_validated:** 2026-09-09
+- **assumes:** Python toolchain — verify before trusting
+- **adapt:** read the repo before adopting; promote on the weekly re-tier if it proves out.
